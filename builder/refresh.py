@@ -117,18 +117,26 @@ def hn():
 
 
 def repos():
-    try:
-        since = (NOW - dt.timedelta(days=30)).strftime("%Y-%m-%d")
-        q = f"https://api.github.com/search/repositories?q=topic:llm+OR+topic:ai-agents+OR+topic:generative-ai+created:>{since}&sort=stars&order=desc&per_page=20"
-        req = urllib.request.Request(q, headers={**UA, "Accept": "application/vnd.github+json",
-                                                 **({"Authorization": "Bearer " + os.environ["GITHUB_TOKEN"]} if os.environ.get("GITHUB_TOKEN") else {})})
-        items = json.loads(urllib.request.urlopen(req, timeout=25).read())["items"]
-        print(f"  ok  GitHub ({len(items)})")
-        return [{"name": r["full_name"], "url": r["html_url"], "stars": r["stargazers_count"], "lang": r.get("language"),
-                 "desc": clean(r.get("description"))[:200]} for r in items]
-    except Exception as ex:
-        print(f"  skip GitHub: {ex}")
-        return []
+    since = (NOW - dt.timedelta(days=30)).strftime("%Y-%m-%d")
+    hdr = {**UA, "Accept": "application/vnd.github+json"}
+    if os.environ.get("GITHUB_TOKEN"):
+        hdr["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
+    seen, out = set(), []
+    for topic in ("llm", "ai-agents", "generative-ai", "machine-learning"):
+        try:
+            q = f"https://api.github.com/search/repositories?q=topic:{topic}+created:%3E{since}&sort=stars&order=desc&per_page=15"
+            items = json.loads(urllib.request.urlopen(urllib.request.Request(q, headers=hdr), timeout=25).read())["items"]
+            for r in items:
+                if r["full_name"] not in seen:
+                    seen.add(r["full_name"])
+                    out.append({"name": r["full_name"], "url": r["html_url"], "stars": r["stargazers_count"],
+                                "lang": r.get("language"), "desc": clean(r.get("description"))[:200]})
+            print(f"  ok  GitHub topic:{topic} ({len(items)})")
+        except Exception as ex:
+            print(f"  skip GitHub topic:{topic}: {ex}")
+        time.sleep(1)
+    out.sort(key=lambda r: r["stars"], reverse=True)
+    return out[:20]
 
 
 def channel_id(handle, cache):
