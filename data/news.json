@@ -1,0 +1,703 @@
+{
+ "items": [
+  {
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-18T01:44:21+00:00"
+  },
+  {
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "url": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "date": "2026-11-18T00:17:58Z"
+  },
+  {
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-18T00:16:50+00:00"
+  },
+  {
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T23:37:48+00:00"
+  },
+  {
+   "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+   "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T23:33:26+00:00"
+  },
+  {
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T23:04:35+00:00"
+  },
+  {
+   "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+   "url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+   "source": "MarkTechPost",
+   "date": "2026-11-17T22:52:04+00:00"
+  },
+  {
+   "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+   "url": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T22:44:51+00:00"
+  },
+  {
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T22:42:27+00:00"
+  },
+  {
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T22:29:05+00:00"
+  },
+  {
+   "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+   "url": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
+   "source": "MarkTechPost",
+   "date": "2026-11-17T22:07:30+00:00"
+  },
+  {
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T21:48:07+00:00"
+  },
+  {
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T21:34:50+00:00"
+  },
+  {
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "source": "Hacker News",
+   "date": "2026-11-17T21:16:12Z"
+  },
+  {
+   "title": "Cut generative AI costs: Code for rules, models for judgment",
+   "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T21:14:55+00:00"
+  },
+  {
+   "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T21:11:51+00:00"
+  },
+  {
+   "title": "Tencent Hy4 Flash",
+   "url": "https://hy.tencent.ai/research/hy4-flash",
+   "source": "Hacker News",
+   "date": "2026-11-17T21:06:08Z"
+  },
+  {
+   "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+   "url": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+   "source": "MarkTechPost",
+   "date": "2026-11-17T20:49:45+00:00"
+  },
+  {
+   "title": "Human.md",
+   "url": "https://www.human-md.ai/",
+   "source": "Hacker News",
+   "date": "2026-11-17T20:47:36Z"
+  },
+  {
+   "title": "Govern and discover records with common metadata in AWS Agent Registry",
+   "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T20:31:04+00:00"
+  },
+  {
+   "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T20:25:23+00:00"
+  },
+  {
+   "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+   "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T19:40:01+00:00"
+  },
+  {
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T19:32:11+00:00"
+  },
+  {
+   "title": "Getting AI out of the demo and into businesses globally",
+   "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T19:05:22+00:00"
+  },
+  {
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T19:02:20+00:00"
+  },
+  {
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "url": "https://starsling.dev",
+   "source": "Hacker News",
+   "date": "2026-11-17T19:01:43Z"
+  },
+  {
+   "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T18:48:50+00:00"
+  },
+  {
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T18:48:23+00:00"
+  },
+  {
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "source": "The Verge AI",
+   "date": "2026-11-17T18:41:18-05:00"
+  },
+  {
+   "title": "MAI Code 2 and Code 2 Flash",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "source": "Hacker News",
+   "date": "2026-11-17T18:25:13Z"
+  },
+  {
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-17T18:10:00+00:00"
+  },
+  {
+   "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+   "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T18:06:44+00:00"
+  },
+  {
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "OpenAI",
+   "date": "2026-11-17T17:45:00+00:00"
+  },
+  {
+   "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+   "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T17:08:21+00:00"
+  },
+  {
+   "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-17T17:01:08+00:00"
+  },
+  {
+   "title": "Put Gemini to work for you",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "source": "Google AI",
+   "date": "2026-11-17T17:00:00+00:00"
+  },
+  {
+   "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge AI",
+   "date": "2026-11-17T16:40:59-05:00"
+  },
+  {
+   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+   "url": "https://github.com/RunanywhereAI/trnrt",
+   "source": "Hacker News",
+   "date": "2026-11-17T16:01:04Z"
+  },
+  {
+   "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+   "source": "The Verge AI",
+   "date": "2026-11-17T16:00:55-05:00"
+  },
+  {
+   "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+   "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+   "source": "Hacker News",
+   "date": "2026-11-17T14:48:03Z"
+  },
+  {
+   "title": "Research Reports",
+   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-17T14:39:46+00:00"
+  },
+  {
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+   "source": "Hacker News",
+   "date": "2026-11-17T14:19:59Z"
+  },
+  {
+   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+   "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+   "source": "Hacker News",
+   "date": "2026-11-17T14:00:47Z"
+  },
+  {
+   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-17T14:00:10+00:00"
+  },
+  {
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge AI",
+   "date": "2026-11-17T13:58:01-05:00"
+  },
+  {
+   "title": "The DOJ says it’s investigating Megaspeed",
+   "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "source": "The Verge AI",
+   "date": "2026-11-17T11:19:03-05:00"
+  },
+  {
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "source": "The Verge AI",
+   "date": "2026-11-17T11:09:57-05:00"
+  },
+  {
+   "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+   "url": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+   "source": "MarkTechPost",
+   "date": "2026-11-17T10:37:11+00:00"
+  },
+  {
+   "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+   "url": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+   "source": "MarkTechPost",
+   "date": "2026-11-17T09:51:18+00:00"
+  },
+  {
+   "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+   "url": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+   "source": "MarkTechPost",
+   "date": "2026-11-17T09:20:57+00:00"
+  },
+  {
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI",
+   "date": "2026-11-17T08:00:00+00:00"
+  },
+  {
+   "title": "Mem Is Shutting Down",
+   "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+   "source": "Hacker News",
+   "date": "2026-11-17T02:13:41Z"
+  },
+  {
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "source": "OpenAI",
+   "date": "2026-11-17T00:00:00+00:00"
+  },
+  {
+   "title": "Astra for Law leads in legal intelligence",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "source": "OpenAI",
+   "date": "2026-11-17T00:00:00+00:00"
+  },
+  {
+   "title": "Introducing OpenAI for Chile",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "source": "OpenAI",
+   "date": "2026-11-17T00:00:00+00:00"
+  },
+  {
+   "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T23:00:05+00:00"
+  },
+  {
+   "title": "United Airlines has a widespread system outage",
+   "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+   "source": "Hacker News",
+   "date": "2026-11-16T22:22:18Z"
+  },
+  {
+   "title": "United Airlines experiencing a widespread system outage, airline says",
+   "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+   "source": "Hacker News",
+   "date": "2026-11-16T22:14:38Z"
+  },
+  {
+   "title": "OpenCode Browse",
+   "url": "https://opencode.ai/product/browse",
+   "source": "Hacker News",
+   "date": "2026-11-16T21:20:37Z"
+  },
+  {
+   "title": "Caltech professor no longer grades homework's because everyone uses AI",
+   "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+   "source": "Hacker News",
+   "date": "2026-11-16T20:47:53Z"
+  },
+  {
+   "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+   "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T20:00:37+00:00"
+  },
+  {
+   "title": "The open-source movement wants Jensen Huang back",
+   "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-16T18:38:47+00:00"
+  },
+  {
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "source": "The Verge AI",
+   "date": "2026-11-16T18:17:34-05:00"
+  },
+  {
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "source": "Hacker News",
+   "date": "2026-11-16T18:12:21Z"
+  },
+  {
+   "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+   "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+   "source": "Hacker News",
+   "date": "2026-11-16T17:25:35Z"
+  },
+  {
+   "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+   "url": "https://news.ycombinator.com/item?id=50520076",
+   "source": "Hacker News",
+   "date": "2026-11-16T17:20:28Z"
+  },
+  {
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source": "OpenAI",
+   "date": "2026-11-16T17:00:00+00:00"
+  },
+  {
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source": "OpenAI",
+   "date": "2026-11-16T17:00:00+00:00"
+  },
+  {
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-16T16:04:28+00:00"
+  },
+  {
+   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+   "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T16:00:51+00:00"
+  },
+  {
+   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+   "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T16:00:47+00:00"
+  },
+  {
+   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+   "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T16:00:25+00:00"
+  },
+  {
+   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+   "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T16:00:16+00:00"
+  },
+  {
+   "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+   "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T16:00:11+00:00"
+  },
+  {
+   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-16T16:00:01+00:00"
+  },
+  {
+   "title": "Generative AI Usage in the Games Industry",
+   "url": "https://www.gameworkers.co.uk/ai-manifesto/",
+   "source": "Hacker News",
+   "date": "2026-11-16T15:59:48Z"
+  },
+  {
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "source": "The Verge AI",
+   "date": "2026-11-16T15:46:01-05:00"
+  },
+  {
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "source": "The Verge AI",
+   "date": "2026-11-16T15:41:28-05:00"
+  },
+  {
+   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+   "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+   "source": "The Verge AI",
+   "date": "2026-11-16T15:29:37-05:00"
+  },
+  {
+   "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+   "url": "https://github.com/withcoral/coral",
+   "source": "Hacker News",
+   "date": "2026-11-16T14:14:51Z"
+  }
+ ],
+ "papers": [
+  {
+   "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+   "url": "https://arxiv.org/abs/2611.18642",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
+   "url": "https://arxiv.org/abs/2611.18714",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
+   "url": "https://arxiv.org/abs/2611.18747",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
+   "url": "https://arxiv.org/abs/2611.18793",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
+   "url": "https://arxiv.org/abs/2611.18866",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
+   "url": "https://arxiv.org/abs/2611.18883",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
+   "url": "https://arxiv.org/abs/2611.18891",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
+   "url": "https://arxiv.org/abs/2611.18905",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
+   "url": "https://arxiv.org/abs/2611.18908",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
+   "url": "https://arxiv.org/abs/2611.18930",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
+   "url": "https://arxiv.org/abs/2611.18958",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "SpecRelay: Amortize or Avoid the Round Trip in Edge-Cloud Speculative Decoding",
+   "url": "https://arxiv.org/abs/2611.18963",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
+   "url": "https://arxiv.org/abs/2611.18583",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Read, Route, Patch: Robust Test-Time Evolution for LLM Agents",
+   "url": "https://arxiv.org/abs/2611.18585",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Human vs Machine Translation Detection: A Cross-Model, Cross-Domain, and Low-Resource Analysis",
+   "url": "https://arxiv.org/abs/2611.18586",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Automating literature screening and knowledge synthesis with large language models",
+   "url": "https://arxiv.org/abs/2611.18588",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "OmniTag-LLM: Multilingual Multitask Speech Tagging",
+   "url": "https://arxiv.org/abs/2611.18589",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Where Language Models Fail Like Aphasic Patients and Where They Don't",
+   "url": "https://arxiv.org/abs/2611.18591",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Endogenous Preferences as Vulnerability Signals: Discovering Universal Adversarial Triggers for LLM Utility Degradation",
+   "url": "https://arxiv.org/abs/2611.18592",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Theoretical Foundations of Computational Islamic Jurisprudence (Fiqh)",
+   "url": "https://arxiv.org/abs/2611.18593",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Whose Side Are You On? Measuring Stance at Scale for Reddit Discourse Analysis During the Israel-Gaza War",
+   "url": "https://arxiv.org/abs/2611.18594",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Profiling Hallucinations in Frontier LLMs for Entity Linking to Medical Ontologies",
+   "url": "https://arxiv.org/abs/2611.18595",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Between the Lines: Multi-turn Contextual Investment Advice Detection",
+   "url": "https://arxiv.org/abs/2611.18596",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "ScopeBench: Evaluating Cultural Norm Scope Awareness in LLMs",
+   "url": "https://arxiv.org/abs/2611.18600",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Check Token: Real-Time Self-Verification and Precise Truncation in LLM Reasoning",
+   "url": "https://arxiv.org/abs/2611.18564",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Quantize, Qualify, Rerank: A Recipe for Compressing LLMs Without Losing Quality",
+   "url": "https://arxiv.org/abs/2611.18587",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Skill-Latent Rewards: LLM-Guided Reward Formulation for Hierarchical Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2611.18597",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Not All Data Leakage Is Equal: A Controlled Benchmark of Evaluation Inflation in Tabular Classification",
+   "url": "https://arxiv.org/abs/2611.18598",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Mechanistic Interpretability of Mambas Selective Gate in Financial Markets: A Leakage-Controlled Study",
+   "url": "https://arxiv.org/abs/2611.18599",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Multimodal Fusion with Pre-trained Models for Psychotherapy Outcome Prediction from Emotional Dynamics",
+   "url": "https://arxiv.org/abs/2611.18635",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "Predictive maintenance in manufacturing: The operational value of continual machine learning",
+   "url": "https://arxiv.org/abs/2611.18636",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "GRAFT: Cross-Backbone LoRA Reuse for Continual Language and Multimodal Learning",
+   "url": "https://arxiv.org/abs/2611.18638",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
+   "url": "https://arxiv.org/abs/2611.18639",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "SERAG: SEmantical and Relational approach for Anomaly detection on knowledge Graphs",
+   "url": "https://arxiv.org/abs/2611.18640",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "HIMX: mixed-format matrix multiplication based on customized HIFLOAT4 representations",
+   "url": "https://arxiv.org/abs/2611.18641",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  },
+  {
+   "title": "FedFit: Federated Dynamic Sparse Training via Fisher Information scoring",
+   "url": "https://arxiv.org/abs/2611.18643",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-17T00:00:00-05:00"
+  }
+ ],
+ "updated": "2026-11-18T02:49:07.408706+00:00"
+}
