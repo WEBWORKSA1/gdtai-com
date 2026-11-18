@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "source": "Hugging Face",
+   "date": "2026-11-18T15:00:23+00:00"
+  },
+  {
+   "title": "The AI Hype Index: AI is everywhere",
+   "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-18T14:42:44+00:00"
+  },
+  {
+   "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+   "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-18T14:00:31+00:00"
+  },
+  {
+   "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+   "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+   "source": "Hacker News",
+   "date": "2026-11-18T13:51:03Z"
+  },
+  {
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-18T13:00:00+00:00"
+  },
+  {
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-18T12:00:00+00:00"
+  },
+  {
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-18T11:30:00+00:00"
+  },
+  {
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-18T10:20:30+00:00"
+  },
+  {
+   "title": "Will Wright’s next game uses AI to map your memories",
+   "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+   "source": "The Verge AI",
+   "date": "2026-11-18T09:00:00-05:00"
+  },
+  {
+   "title": "Nvidia isn’t selling any more AI chips to China",
+   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+   "source": "The Verge AI",
+   "date": "2026-11-18T08:01:05-05:00"
+  },
+  {
    "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
    "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
    "source": "MarkTechPost",
@@ -17,6 +77,12 @@
    "url": "https://nicolasbouliane.com/blog/death-by-ai",
    "source": "Hacker News",
    "date": "2026-11-18T06:47:26Z"
+  },
+  {
+   "title": "Suno now lets you make AI videos for your AI music",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "source": "The Verge AI",
+   "date": "2026-11-18T06:16:53-05:00"
   },
   {
    "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
@@ -47,6 +113,18 @@
    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
    "source": "TechCrunch AI",
    "date": "2026-11-18T00:16:50+00:00"
+  },
+  {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "source": "OpenAI",
+   "date": "2026-11-18T00:00:00+00:00"
+  },
+  {
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "url": "https://huggingface.co/blog/rumble-2-flash",
+   "source": "Hugging Face",
+   "date": "2026-11-18T00:00:00+00:00"
   },
   {
    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -175,14 +253,8 @@
    "date": "2026-11-17T19:05:22+00:00"
   },
   {
-   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-17T19:02:20+00:00"
-  },
-  {
    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-   "url": "https://starsling.dev",
+   "url": "https://news.ycombinator.com/item?id=50536468",
    "source": "Hacker News",
    "date": "2026-11-17T19:01:43Z"
   },
@@ -191,12 +263,6 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
    "source": "AWS ML Blog",
    "date": "2026-11-17T18:48:50+00:00"
-  },
-  {
-   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-17T18:48:23+00:00"
   },
   {
    "title": "Satya Nadella says he’s AGI-pilled now",
@@ -209,12 +275,6 @@
    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
    "source": "Hacker News",
    "date": "2026-11-17T18:25:13Z"
-  },
-  {
-   "title": "As decision model use skyrockets, is customization the next frontier?",
-   "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-17T18:10:00+00:00"
   },
   {
    "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
@@ -419,66 +479,6 @@
    "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
    "source": "Hacker News",
    "date": "2026-11-16T17:25:35Z"
-  },
-  {
-   "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-   "url": "https://news.ycombinator.com/item?id=50520076",
-   "source": "Hacker News",
-   "date": "2026-11-16T17:20:28Z"
-  },
-  {
-   "title": "Broadening access to AI for scientists",
-   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "source": "OpenAI",
-   "date": "2026-11-16T17:00:00+00:00"
-  },
-  {
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "url": "https://openai.com/index/strengthening-online-child-safety",
-   "source": "OpenAI",
-   "date": "2026-11-16T17:00:00+00:00"
-  },
-  {
-   "title": "Building trustworthy AI by fencing it in, not predicting it",
-   "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-   "source": "MIT Technology Review",
-   "date": "2026-11-16T16:04:28+00:00"
-  },
-  {
-   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-   "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-16T16:00:51+00:00"
-  },
-  {
-   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-   "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-16T16:00:47+00:00"
-  },
-  {
-   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-   "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-16T16:00:25+00:00"
-  },
-  {
-   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-   "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-16T16:00:16+00:00"
-  },
-  {
-   "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-   "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-16T16:00:11+00:00"
-  },
-  {
-   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-   "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-16T16:00:01+00:00"
   }
  ],
  "papers": [
@@ -699,5 +699,5 @@
    "date": "2026-11-18T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-18T08:43:30.522537+00:00"
+ "updated": "2026-11-18T15:35:45.589707+00:00"
 }
