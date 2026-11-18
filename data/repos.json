@@ -3,7 +3,7 @@
   {
    "name": "ccch1mneyyy/dsh-Go",
    "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "stars": 26153,
+   "stars": 26154,
    "lang": "Dart",
    "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
   },
@@ -66,7 +66,7 @@
   {
    "name": "mdiri-ai/SoduWork",
    "url": "https://github.com/mdiri-ai/SoduWork",
-   "stars": 1761,
+   "stars": 1762,
    "lang": "JavaScript",
    "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
   },
@@ -141,5 +141,5 @@
    "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages."
   }
  ],
- "updated": "2026-11-18T02:51:04.777748+00:00"
+ "updated": "2026-11-18T02:51:26.092407+00:00"
 }
