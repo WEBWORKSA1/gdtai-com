@@ -1,0 +1,49 @@
+<!--
+title: Prompt Engineering Basics: Get Better Answers From Any AI Model
+description: The core techniques — role, context, constraints, examples and iteration — that reliably improve results from ChatGPT, Claude, Gemini and other assistants.
+category: Skills
+read: 8
+-->
+<p class="lead">"Prompt engineering" sounds technical, but it is mostly clear communication. Models are capable; they simply cannot read your mind. The techniques below work across every major assistant and turn vague, generic answers into specific, useful ones.</p>
+
+<h2>The five building blocks of a good prompt</h2>
+<h3>1. Goal</h3>
+<p>State what you want and why. "Write a product description" is weak. "Write a product description that convinces busy parents this lunchbox keeps food cold for six hours" gives the model a target.</p>
+<h3>2. Context</h3>
+<p>Give the facts the model cannot know: your audience, product details, brand voice, what you tried before. Paste source material directly instead of describing it. More relevant context almost always beats clever wording.</p>
+<h3>3. Constraints</h3>
+<p>Specify length, format, tone, reading level and things to avoid. "Under 120 words, plain English, no exclamation marks, end with a question" removes guesswork.</p>
+<h3>4. Examples</h3>
+<p>Show one or two examples of the output you like (few-shot prompting). Models are excellent pattern-matchers; an example communicates style faster than any description.</p>
+<h3>5. Output format</h3>
+<p>Ask for exactly the structure you need — a table with named columns, JSON with specific keys, a numbered list, or headings. This makes results easy to paste into other tools.</p>
+
+<h2>A reusable template</h2>
+<pre><code>Role: You are a [expert role].
+Goal: Help me [outcome] so that [reason].
+Context: [audience, facts, source material].
+Constraints: [length, tone, must include, must avoid].
+Format: [table / bullets / JSON / sections].
+Before answering, ask me up to 3 questions if anything is unclear.</code></pre>
+<p>Try it in our <a href="../free-tools/prompt-builder.html">free prompt builder</a>, which fills this structure for you.</p>
+
+<h2>Techniques that consistently help</h2>
+<ul>
+<li><strong>Ask it to ask you questions first.</strong> For complex tasks, letting the model clarify before answering prevents wrong assumptions.</li>
+<li><strong>Break big tasks into steps.</strong> Outline first, approve, then draft each section. Quality rises and you keep control.</li>
+<li><strong>Request reasoning on hard problems.</strong> For maths, logic or analysis, ask the model to work through the problem step by step, or use a reasoning model.</li>
+<li><strong>Use delimiters.</strong> Wrap pasted material in clear markers such as triple quotes or XML-style tags so the model separates instructions from content.</li>
+<li><strong>Critique and revise.</strong> Ask: "Critique this draft against my goal and constraints, then rewrite it." Self-review catches many issues.</li>
+<li><strong>Ground factual answers.</strong> Provide sources or enable web search, and ask for citations so you can verify claims.</li>
+</ul>
+
+<h2>Common mistakes</h2>
+<ol>
+<li><strong>Being polite but vague.</strong> Courtesy is fine; vagueness is the problem.</li>
+<li><strong>Stuffing ten tasks in one prompt.</strong> Split them.</li>
+<li><strong>Accepting the first answer.</strong> Iterate: "Make it more concrete", "Cut 30%", "Use a real-world example".</li>
+<li><strong>Trusting numbers and quotes blindly.</strong> Models can produce plausible but wrong facts. Verify anything you will publish.</li>
+</ol>
+
+<h2>Save what works</h2>
+<p>Keep a personal prompt library for tasks you repeat. Our <a href="../prompts.html">prompt library</a> has 30 tested starting points you can copy and adapt.</p>

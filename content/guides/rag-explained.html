@@ -1,0 +1,47 @@
+<!--
+title: RAG Explained: How to Make AI Answer From Your Own Documents
+description: A plain-English guide to Retrieval-Augmented Generation — how it works, when to use it, and the simplest ways to set it up without a data science team.
+category: Explainers
+read: 8
+-->
+<p class="lead">Ask a general AI model about your company's refund policy and it will either refuse or, worse, invent something plausible. Retrieval-Augmented Generation (RAG) fixes this by handing the model the right passages from your own documents before it answers. It is the most practical way to make AI accurate on private knowledge.</p>
+
+<h2>How RAG works in four steps</h2>
+<ol>
+<li><strong>Chunk:</strong> your documents are split into small passages, typically a few paragraphs each.</li>
+<li><strong>Embed:</strong> each passage is converted into an embedding — a list of numbers that captures its meaning — and stored in a vector database.</li>
+<li><strong>Retrieve:</strong> when someone asks a question, the question is embedded too, and the most similar passages are found.</li>
+<li><strong>Generate:</strong> those passages are inserted into the prompt, and the model is instructed to answer only from them, ideally citing which passage it used.</li>
+</ol>
+
+<h2>Why not just paste everything into the prompt?</h2>
+<p>Context windows have grown enormously, and for a handful of documents, simply uploading them works well. RAG becomes valuable when you have hundreds or thousands of documents, when content changes often, when you need to control which users see which sources, or when cost and speed matter — sending only the relevant passages is far cheaper than sending everything on every question.</p>
+
+<h2>When RAG is the right choice</h2>
+<ul>
+<li>Customer-support assistants answering from help-centre articles.</li>
+<li>Internal knowledge bots for policies, SOPs and onboarding.</li>
+<li>Sales assistants that quote accurate specs and pricing.</li>
+<li>Research tools that search large libraries of reports or papers.</li>
+</ul>
+<p>RAG is <em>not</em> the right tool for teaching a model a new style or format — that is closer to fine-tuning or good examples in the prompt.</p>
+
+<h2>Three ways to get started</h2>
+<h3>No-code</h3>
+<p>Tools such as NotebookLM let you upload sources and ask grounded questions immediately. Many chatbot builders, including Botpress and Voiceflow, offer knowledge-base features that handle chunking and retrieval for you.</p>
+<h3>Low-code</h3>
+<p>Platforms like Dify or n8n let you assemble a RAG pipeline visually: a document loader, an embedding model, a vector store and an LLM step, then expose it as a chat widget or API.</p>
+<h3>Code</h3>
+<p>Developers typically combine an embedding API, a vector database and an LLM API with a framework of their choice. This gives the most control over chunking, ranking and evaluation.</p>
+
+<h2>What makes RAG good or bad</h2>
+<ul>
+<li><strong>Clean sources:</strong> outdated or contradictory documents produce confused answers. Curate first.</li>
+<li><strong>Sensible chunking:</strong> chunks that cut sentences in half lose meaning; chunks that are too large dilute relevance.</li>
+<li><strong>Hybrid search:</strong> combining keyword and semantic search helps with product codes, names and exact phrases.</li>
+<li><strong>Re-ranking:</strong> a second pass that reorders retrieved passages by relevance often improves accuracy noticeably.</li>
+<li><strong>Citations and "I don't know":</strong> instruct the model to cite sources and to say when the answer is not in the documents.</li>
+<li><strong>Evaluation:</strong> keep a list of 30–50 real questions with correct answers and re-test whenever you change anything.</li>
+</ul>
+
+<div class="callout"><strong>Need a RAG assistant for your business?</strong> Describe your documents and goals on our <a href="../get-matched.html">get matched</a> page and we will point you to the right approach and partners.</div>
