@@ -6,4 +6,4 @@ Disallow: /content/
 User-agent: Mediapartners-Google
 Allow: /
 
-Sitemap: https://webworksa1.github.io/gdtai-com/sitemap.xml
+Sitemap: https://gdtai.com/sitemap.xml

@@ -1,10 +1,40 @@
 {
  "items": [
   {
+   "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+   "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+   "source": "MarkTechPost",
+   "date": "2026-11-18T07:10:53+00:00"
+  },
+  {
+   "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+   "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+   "source": "MarkTechPost",
+   "date": "2026-11-18T06:53:28+00:00"
+  },
+  {
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "source": "Hacker News",
+   "date": "2026-11-18T06:47:26Z"
+  },
+  {
+   "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+   "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+   "source": "Hacker News",
+   "date": "2026-11-18T01:45:11Z"
+  },
+  {
    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
    "source": "TechCrunch AI",
    "date": "2026-11-18T01:44:21+00:00"
+  },
+  {
+   "title": "Cerebras Disaggregated Inference",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "source": "Hacker News",
+   "date": "2026-11-18T00:56:23Z"
   },
   {
    "title": "Google's AI answers reducing search traffic by 40%",
@@ -449,255 +479,225 @@
    "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
    "source": "NVIDIA Blog",
    "date": "2026-11-16T16:00:01+00:00"
-  },
-  {
-   "title": "Generative AI Usage in the Games Industry",
-   "url": "https://www.gameworkers.co.uk/ai-manifesto/",
-   "source": "Hacker News",
-   "date": "2026-11-16T15:59:48Z"
-  },
-  {
-   "title": "California sues OpenAI over rogue AI hacking incidents",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-   "source": "The Verge AI",
-   "date": "2026-11-16T15:46:01-05:00"
-  },
-  {
-   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-   "source": "The Verge AI",
-   "date": "2026-11-16T15:41:28-05:00"
-  },
-  {
-   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-   "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-   "source": "The Verge AI",
-   "date": "2026-11-16T15:29:37-05:00"
-  },
-  {
-   "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
-   "url": "https://github.com/withcoral/coral",
-   "source": "Hacker News",
-   "date": "2026-11-16T14:14:51Z"
   }
  ],
  "papers": [
   {
-   "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
-   "url": "https://arxiv.org/abs/2611.18642",
+   "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+   "url": "https://arxiv.org/abs/2611.21682",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-   "url": "https://arxiv.org/abs/2611.18714",
+   "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+   "url": "https://arxiv.org/abs/2611.21799",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
-   "url": "https://arxiv.org/abs/2611.18747",
+   "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+   "url": "https://arxiv.org/abs/2611.21827",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
-   "url": "https://arxiv.org/abs/2611.18793",
+   "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+   "url": "https://arxiv.org/abs/2611.21832",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
-   "url": "https://arxiv.org/abs/2611.18866",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "url": "https://arxiv.org/abs/2611.21885",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
-   "url": "https://arxiv.org/abs/2611.18883",
+   "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+   "url": "https://arxiv.org/abs/2611.21925",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
-   "url": "https://arxiv.org/abs/2611.18891",
+   "title": "SLED: Sensor SLicing from Edge to Datacenter",
+   "url": "https://arxiv.org/abs/2611.21937",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
-   "url": "https://arxiv.org/abs/2611.18905",
+   "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+   "url": "https://arxiv.org/abs/2611.21946",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
-   "url": "https://arxiv.org/abs/2611.18908",
+   "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+   "url": "https://arxiv.org/abs/2611.21948",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance",
-   "url": "https://arxiv.org/abs/2611.18930",
+   "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+   "url": "https://arxiv.org/abs/2611.21950",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications",
-   "url": "https://arxiv.org/abs/2611.18958",
+   "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+   "url": "https://arxiv.org/abs/2611.21978",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "SpecRelay: Amortize or Avoid the Round Trip in Edge-Cloud Speculative Decoding",
-   "url": "https://arxiv.org/abs/2611.18963",
+   "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+   "url": "https://arxiv.org/abs/2611.21998",
    "source": "arXiv cs.AI",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
-   "url": "https://arxiv.org/abs/2611.18583",
+   "title": "CrisisBench: an evaluation suite for crisis counseling AI",
+   "url": "https://arxiv.org/abs/2611.21622",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Read, Route, Patch: Robust Test-Time Evolution for LLM Agents",
-   "url": "https://arxiv.org/abs/2611.18585",
+   "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
+   "url": "https://arxiv.org/abs/2611.21641",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Human vs Machine Translation Detection: A Cross-Model, Cross-Domain, and Low-Resource Analysis",
-   "url": "https://arxiv.org/abs/2611.18586",
+   "title": "Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization",
+   "url": "https://arxiv.org/abs/2611.21643",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Automating literature screening and knowledge synthesis with large language models",
-   "url": "https://arxiv.org/abs/2611.18588",
+   "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+   "url": "https://arxiv.org/abs/2611.21644",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "OmniTag-LLM: Multilingual Multitask Speech Tagging",
-   "url": "https://arxiv.org/abs/2611.18589",
+   "title": "Limite 1B - Violetto: Technical Report",
+   "url": "https://arxiv.org/abs/2611.21646",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Where Language Models Fail Like Aphasic Patients and Where They Don't",
-   "url": "https://arxiv.org/abs/2611.18591",
+   "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+   "url": "https://arxiv.org/abs/2611.21647",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Endogenous Preferences as Vulnerability Signals: Discovering Universal Adversarial Triggers for LLM Utility Degradation",
-   "url": "https://arxiv.org/abs/2611.18592",
+   "title": "Can an LLM dream? Testing the overfitted brain hypothesis on an agent with text memory",
+   "url": "https://arxiv.org/abs/2611.21648",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Theoretical Foundations of Computational Islamic Jurisprudence (Fiqh)",
-   "url": "https://arxiv.org/abs/2611.18593",
+   "title": "Literary Language Mashup: Curating Fictions with Large Language Models",
+   "url": "https://arxiv.org/abs/2611.21649",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Whose Side Are You On? Measuring Stance at Scale for Reddit Discourse Analysis During the Israel-Gaza War",
-   "url": "https://arxiv.org/abs/2611.18594",
+   "title": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
+   "url": "https://arxiv.org/abs/2611.21650",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Profiling Hallucinations in Frontier LLMs for Entity Linking to Medical Ontologies",
-   "url": "https://arxiv.org/abs/2611.18595",
+   "title": "Consistency Is Not Correction: Separating Confidence, Abstention, and Recovery in LLM Agents",
+   "url": "https://arxiv.org/abs/2611.21651",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Between the Lines: Multi-turn Contextual Investment Advice Detection",
-   "url": "https://arxiv.org/abs/2611.18596",
+   "title": "Evaluating Semantic Insensitivity in Financial Sentiment Analysis: Implications for Sustainable Financial Decision-Making",
+   "url": "https://arxiv.org/abs/2611.21653",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "ScopeBench: Evaluating Cultural Norm Scope Awareness in LLMs",
-   "url": "https://arxiv.org/abs/2611.18600",
+   "title": "Token Commitment as a Control Surface for Steering Masked Diffusion Generation",
+   "url": "https://arxiv.org/abs/2611.21669",
    "source": "arXiv cs.CL",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Check Token: Real-Time Self-Verification and Precise Truncation in LLM Reasoning",
-   "url": "https://arxiv.org/abs/2611.18564",
+   "title": "DeltaHarness: Self-Evolving Harnesses for Resource-Adaptive Tool Execution",
+   "url": "https://arxiv.org/abs/2611.21688",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Quantize, Qualify, Rerank: A Recipe for Compressing LLMs Without Losing Quality",
-   "url": "https://arxiv.org/abs/2611.18587",
+   "title": "AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data",
+   "url": "https://arxiv.org/abs/2611.21691",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Skill-Latent Rewards: LLM-Guided Reward Formulation for Hierarchical Reinforcement Learning",
-   "url": "https://arxiv.org/abs/2611.18597",
+   "title": "TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release",
+   "url": "https://arxiv.org/abs/2611.21694",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Not All Data Leakage Is Equal: A Controlled Benchmark of Evaluation Inflation in Tabular Classification",
-   "url": "https://arxiv.org/abs/2611.18598",
+   "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
+   "url": "https://arxiv.org/abs/2611.21696",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Mechanistic Interpretability of Mambas Selective Gate in Financial Markets: A Leakage-Controlled Study",
-   "url": "https://arxiv.org/abs/2611.18599",
+   "title": "FACE: Flow-Guided Angular Channel Estimation Framework for mmWave MIMO Systems",
+   "url": "https://arxiv.org/abs/2611.21698",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Multimodal Fusion with Pre-trained Models for Psychotherapy Outcome Prediction from Emotional Dynamics",
-   "url": "https://arxiv.org/abs/2611.18635",
+   "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
+   "url": "https://arxiv.org/abs/2611.21701",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "Predictive maintenance in manufacturing: The operational value of continual machine learning",
-   "url": "https://arxiv.org/abs/2611.18636",
+   "title": "Margin Dynamics for Large Language Model Alignment",
+   "url": "https://arxiv.org/abs/2611.21766",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "GRAFT: Cross-Backbone LoRA Reuse for Continual Language and Multimodal Learning",
-   "url": "https://arxiv.org/abs/2611.18638",
+   "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
+   "url": "https://arxiv.org/abs/2611.21769",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
-   "url": "https://arxiv.org/abs/2611.18639",
+   "title": "Regularized Score Centering",
+   "url": "https://arxiv.org/abs/2611.21791",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "SERAG: SEmantical and Relational approach for Anomaly detection on knowledge Graphs",
-   "url": "https://arxiv.org/abs/2611.18640",
+   "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
+   "url": "https://arxiv.org/abs/2611.21825",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "HIMX: mixed-format matrix multiplication based on customized HIFLOAT4 representations",
-   "url": "https://arxiv.org/abs/2611.18641",
+   "title": "VisHead-Spec: Head-Routed Visual Attention for Multimodal Speculative Decoding",
+   "url": "https://arxiv.org/abs/2611.21839",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   },
   {
-   "title": "FedFit: Federated Dynamic Sparse Training via Fisher Information scoring",
-   "url": "https://arxiv.org/abs/2611.18643",
+   "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
+   "url": "https://arxiv.org/abs/2611.21847",
    "source": "arXiv cs.LG",
-   "date": "2026-11-17T00:00:00-05:00"
+   "date": "2026-11-18T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-18T02:51:26.092407+00:00"
+ "updated": "2026-11-18T08:43:30.522537+00:00"
 }
