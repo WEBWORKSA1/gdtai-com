@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "JDsFHmq9hlA",
+   "title": "What we make of this moment, will make this moment.",
+   "channel": "Anthropic",
+   "date": "2026-11-19T15:02:49+00:00"
+  },
+  {
+   "id": "ikNf7eW8CHk",
+   "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
+   "channel": "OpenAI",
+   "date": "2026-11-19T11:38:57+00:00"
+  },
+  {
+   "id": "Cy7Wz6Z4TWU",
+   "title": "DeepMind Just Did Something Extraordinary For Humanity",
+   "channel": "Two Minute Papers",
+   "date": "2026-11-19T09:26:19+00:00"
+  },
+  {
    "id": "-oA6oLxWpJg",
    "title": "Insane AI Breakthroughs Nobody Is Talking About",
    "channel": "Matt Wolfe",
@@ -55,12 +73,6 @@
    "date": "2026-11-17T23:24:04+00:00"
   },
   {
-   "id": "tKoDPOrLMX0",
-   "title": "Building 3D video sets with GPT-6.2 Astra",
-   "channel": "OpenAI",
-   "date": "2026-11-17T18:41:32+00:00"
-  },
-  {
    "id": "qbsb9DpdZ6s",
    "title": "This algorithm changed how I think about compression | Information theory, part 3",
    "channel": "3Blue1Brown",
@@ -101,12 +113,6 @@
    "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
    "channel": "AI Explained",
    "date": "2026-11-10T23:11:36+00:00"
-  },
-  {
-   "id": "vug73goPJaM",
-   "title": "Is Software Over?",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-10T10:15:57+00:00"
   },
   {
    "id": "0Kw6_DTZPrY",
@@ -181,12 +187,6 @@
    "date": "2026-09-01T18:02:31+00:00"
   },
   {
-   "id": "UxJZrCFzTHY",
-   "title": "Model Hardware Standard: AI operating physical equipment",
-   "channel": "Anthropic",
-   "date": "2026-08-28T00:40:16+00:00"
-  },
-  {
    "id": "_9OT25ZvrWs",
    "title": "I don't prompt agents anymore...",
    "channel": "AI Jason",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-19T00:19:33.539403+00:00"
+ "updated": "2026-11-19T15:41:04.182264+00:00"
 }

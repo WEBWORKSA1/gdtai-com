@@ -1,6 +1,90 @@
 {
  "items": [
   {
+   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T14:54:39+00:00"
+  },
+  {
+   "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-19T14:00:12+00:00"
+  },
+  {
+   "title": "Superhuman pushes its Go assistant everywhere",
+   "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T14:00:00+00:00"
+  },
+  {
+   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+   "url": "https://foolscap.works/",
+   "source": "Hacker News",
+   "date": "2026-11-19T13:21:20Z"
+  },
+  {
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
+   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+   "source": "Hacker News",
+   "date": "2026-11-19T12:17:10Z"
+  },
+  {
+   "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+   "url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+   "source": "MarkTechPost",
+   "date": "2026-11-19T10:45:57+00:00"
+  },
+  {
+   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "source": "The Verge AI",
+   "date": "2026-11-19T09:25:37-05:00"
+  },
+  {
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "source": "The Verge AI",
+   "date": "2026-11-19T08:00:00-05:00"
+  },
+  {
+   "title": "Canva adds an AI ‘off’ button",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "source": "The Verge AI",
+   "date": "2026-11-19T07:30:00-05:00"
+  },
+  {
+   "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+   "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+   "source": "MarkTechPost",
+   "date": "2026-11-19T06:52:26+00:00"
+  },
+  {
+   "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+   "url": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+   "source": "MarkTechPost",
+   "date": "2026-11-19T03:23:50+00:00"
+  },
+  {
+   "title": "AI will not make you rich (2025)",
+   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "Hacker News",
+   "date": "2026-11-19T01:51:28Z"
+  },
+  {
+   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+   "source": "Hacker News",
+   "date": "2026-11-19T00:57:20Z"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T00:42:56+00:00"
+  },
+  {
    "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
    "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
    "source": "AWS ML Blog",
@@ -49,7 +133,7 @@
    "date": "2026-11-18T22:31:04+00:00"
   },
   {
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
    "source": "TechCrunch AI",
    "date": "2026-11-18T22:11:15+00:00"
@@ -71,6 +155,12 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
    "source": "AWS ML Blog",
    "date": "2026-11-18T21:38:22+00:00"
+  },
+  {
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "source": "Google DeepMind",
+   "date": "2026-11-18T21:35:43+00:00"
   },
   {
    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
@@ -113,12 +203,6 @@
    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
    "source": "TechCrunch AI",
    "date": "2026-11-18T20:07:01+00:00"
-  },
-  {
-   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T19:56:39+00:00"
   },
   {
    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -169,16 +253,10 @@
    "date": "2026-11-18T18:18:35-05:00"
   },
   {
-   "title": "Google’s AI feature in Search gets its own incognito mode",
-   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T18:04:05+00:00"
-  },
-  {
-   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T17:32:10+00:00"
+   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "url": "https://news.ycombinator.com/item?id=50549188",
+   "source": "Hacker News",
+   "date": "2026-11-18T17:26:28Z"
   },
   {
    "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -289,18 +367,6 @@
    "date": "2026-11-18T10:00:00+00:00"
   },
   {
-   "title": "Will Wright’s next game uses AI to map your memories",
-   "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-   "source": "The Verge AI",
-   "date": "2026-11-18T09:00:00-05:00"
-  },
-  {
-   "title": "Nvidia isn’t selling any more AI chips to China",
-   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-   "source": "The Verge AI",
-   "date": "2026-11-18T08:01:05-05:00"
-  },
-  {
    "title": "Research acceleration: The jagged frontier",
    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
    "source": "OpenAI",
@@ -335,12 +401,6 @@
    "url": "https://nicolasbouliane.com/blog/death-by-ai",
    "source": "Hacker News",
    "date": "2026-11-18T06:47:26Z"
-  },
-  {
-   "title": "Suno now lets you make AI videos for your AI music",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-   "source": "The Verge AI",
-   "date": "2026-11-18T06:16:53-05:00"
   },
   {
    "title": "Managing frontier AI risk: From training to deployment",
@@ -419,285 +479,225 @@
    "url": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
    "source": "MarkTechPost",
    "date": "2026-11-17T20:49:45+00:00"
-  },
-  {
-   "title": "Human.md",
-   "url": "https://www.human-md.ai/",
-   "source": "Hacker News",
-   "date": "2026-11-17T20:47:36Z"
-  },
-  {
-   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-   "url": "https://news.ycombinator.com/item?id=50536468",
-   "source": "Hacker News",
-   "date": "2026-11-17T19:01:43Z"
-  },
-  {
-   "title": "MAI Code 2 and Code 2 Flash",
-   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-   "source": "Hacker News",
-   "date": "2026-11-17T18:25:13Z"
-  },
-  {
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "source": "OpenAI",
-   "date": "2026-11-17T17:45:00+00:00"
-  },
-  {
-   "title": "Put Gemini to work for you",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-   "source": "Google AI",
-   "date": "2026-11-17T17:00:00+00:00"
-  },
-  {
-   "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-   "url": "https://github.com/RunanywhereAI/trnrt",
-   "source": "Hacker News",
-   "date": "2026-11-17T16:01:04Z"
-  },
-  {
-   "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
-   "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
-   "source": "Hacker News",
-   "date": "2026-11-17T14:48:03Z"
-  },
-  {
-   "title": "Research Reports",
-   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-   "source": "MIT Technology Review",
-   "date": "2026-11-17T14:39:46+00:00"
-  },
-  {
-   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-   "source": "Hacker News",
-   "date": "2026-11-17T14:19:59Z"
-  },
-  {
-   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
-   "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
-   "source": "Hacker News",
-   "date": "2026-11-17T14:00:47Z"
   }
  ],
  "papers": [
   {
-   "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-   "url": "https://arxiv.org/abs/2611.21682",
+   "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+   "url": "https://arxiv.org/abs/2611.23322",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-   "url": "https://arxiv.org/abs/2611.21799",
+   "title": "Training Language Models for Introspective Oversight",
+   "url": "https://arxiv.org/abs/2611.23365",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-   "url": "https://arxiv.org/abs/2611.21827",
+   "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+   "url": "https://arxiv.org/abs/2611.23375",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-   "url": "https://arxiv.org/abs/2611.21832",
+   "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+   "url": "https://arxiv.org/abs/2611.23398",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Language Models Can Rewrite Their Own Weights",
-   "url": "https://arxiv.org/abs/2611.21885",
+   "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+   "url": "https://arxiv.org/abs/2611.23410",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-   "url": "https://arxiv.org/abs/2611.21925",
+   "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+   "url": "https://arxiv.org/abs/2611.23445",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "SLED: Sensor SLicing from Edge to Datacenter",
-   "url": "https://arxiv.org/abs/2611.21937",
+   "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+   "url": "https://arxiv.org/abs/2611.23454",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-   "url": "https://arxiv.org/abs/2611.21946",
+   "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+   "url": "https://arxiv.org/abs/2611.23456",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-   "url": "https://arxiv.org/abs/2611.21948",
+   "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+   "url": "https://arxiv.org/abs/2611.23476",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-   "url": "https://arxiv.org/abs/2611.21950",
+   "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+   "url": "https://arxiv.org/abs/2611.23480",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
-   "url": "https://arxiv.org/abs/2611.21978",
+   "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+   "url": "https://arxiv.org/abs/2611.23483",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
-   "url": "https://arxiv.org/abs/2611.21998",
+   "title": "BOS Summary: The First Token Matters",
+   "url": "https://arxiv.org/abs/2611.23508",
    "source": "arXiv cs.AI",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "CrisisBench: an evaluation suite for crisis counseling AI",
-   "url": "https://arxiv.org/abs/2611.21622",
+   "title": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
+   "url": "https://arxiv.org/abs/2611.23359",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
-   "url": "https://arxiv.org/abs/2611.21641",
+   "title": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation",
+   "url": "https://arxiv.org/abs/2611.23386",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization",
-   "url": "https://arxiv.org/abs/2611.21643",
+   "title": "Tracking Representations in LLM Reasoning Traces for Iterated Games",
+   "url": "https://arxiv.org/abs/2611.23403",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
-   "url": "https://arxiv.org/abs/2611.21644",
+   "title": "Formal Adequacy Index (based on Polish-language material)",
+   "url": "https://arxiv.org/abs/2611.23482",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Limite 1B - Violetto: Technical Report",
-   "url": "https://arxiv.org/abs/2611.21646",
+   "title": "From Arraignment to Resolution: Transformer Models of Court Cases",
+   "url": "https://arxiv.org/abs/2611.23518",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
-   "url": "https://arxiv.org/abs/2611.21647",
+   "title": "Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution",
+   "url": "https://arxiv.org/abs/2611.23530",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Can an LLM dream? Testing the overfitted brain hypothesis on an agent with text memory",
-   "url": "https://arxiv.org/abs/2611.21648",
+   "title": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
+   "url": "https://arxiv.org/abs/2611.23533",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Literary Language Mashup: Curating Fictions with Large Language Models",
-   "url": "https://arxiv.org/abs/2611.21649",
+   "title": "Language Models Make New Research Sound Old",
+   "url": "https://arxiv.org/abs/2611.23546",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
-   "url": "https://arxiv.org/abs/2611.21650",
+   "title": "FutureBench: A Renewable Framework for Evaluating Knowledge-Context Conflict in LLMs",
+   "url": "https://arxiv.org/abs/2611.23601",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Consistency Is Not Correction: Separating Confidence, Abstention, and Recovery in LLM Agents",
-   "url": "https://arxiv.org/abs/2611.21651",
+   "title": "Localizing Text Anonymization for Trustworthy AI: Extending RAT-Bench to Malaysian Microdata and PII",
+   "url": "https://arxiv.org/abs/2611.23704",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Evaluating Semantic Insensitivity in Financial Sentiment Analysis: Implications for Sustainable Financial Decision-Making",
-   "url": "https://arxiv.org/abs/2611.21653",
+   "title": "Beyond Replacement: Levenshtein Editing for Diffusion Language Models",
+   "url": "https://arxiv.org/abs/2611.23750",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Token Commitment as a Control Surface for Steering Masked Diffusion Generation",
-   "url": "https://arxiv.org/abs/2611.21669",
+   "title": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+   "url": "https://arxiv.org/abs/2611.23835",
    "source": "arXiv cs.CL",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "DeltaHarness: Self-Evolving Harnesses for Resource-Adaptive Tool Execution",
-   "url": "https://arxiv.org/abs/2611.21688",
+   "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+   "url": "https://arxiv.org/abs/2611.23240",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data",
-   "url": "https://arxiv.org/abs/2611.21691",
+   "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
+   "url": "https://arxiv.org/abs/2611.23241",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release",
-   "url": "https://arxiv.org/abs/2611.21694",
+   "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
+   "url": "https://arxiv.org/abs/2611.23242",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
-   "url": "https://arxiv.org/abs/2611.21696",
+   "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
+   "url": "https://arxiv.org/abs/2611.23244",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "FACE: Flow-Guided Angular Channel Estimation Framework for mmWave MIMO Systems",
-   "url": "https://arxiv.org/abs/2611.21698",
+   "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
+   "url": "https://arxiv.org/abs/2611.23245",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
-   "url": "https://arxiv.org/abs/2611.21701",
+   "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
+   "url": "https://arxiv.org/abs/2611.23246",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Margin Dynamics for Large Language Model Alignment",
-   "url": "https://arxiv.org/abs/2611.21766",
+   "title": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
+   "url": "https://arxiv.org/abs/2611.23247",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
-   "url": "https://arxiv.org/abs/2611.21769",
+   "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
+   "url": "https://arxiv.org/abs/2611.23248",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Regularized Score Centering",
-   "url": "https://arxiv.org/abs/2611.21791",
+   "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+   "url": "https://arxiv.org/abs/2611.23339",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
-   "url": "https://arxiv.org/abs/2611.21825",
+   "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
+   "url": "https://arxiv.org/abs/2611.23342",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "VisHead-Spec: Head-Routed Visual Attention for Multimodal Speculative Decoding",
-   "url": "https://arxiv.org/abs/2611.21839",
+   "title": "BiMa-ECGSR: reconstructing the 12-lead ECG from reduced lead sets with bidirectional state-space models",
+   "url": "https://arxiv.org/abs/2611.23345",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   },
   {
-   "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
-   "url": "https://arxiv.org/abs/2611.21847",
+   "title": "Implementing Binary Transformers with Approximate Memories with Permutation Invariance Enabled Selective (PIES) Protection",
+   "url": "https://arxiv.org/abs/2611.23358",
    "source": "arXiv cs.LG",
-   "date": "2026-11-18T00:00:00-05:00"
+   "date": "2026-11-19T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-19T00:19:33.539403+00:00"
+ "updated": "2026-11-19T15:41:04.182264+00:00"
 }
