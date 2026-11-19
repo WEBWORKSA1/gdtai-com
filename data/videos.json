@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "-oA6oLxWpJg",
+   "title": "Insane AI Breakthroughs Nobody Is Talking About",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-18T22:08:16+00:00"
+  },
+  {
+   "id": "AhmCKHNqhB8",
+   "title": "Introducing ChatGPT for Accounting",
+   "channel": "OpenAI",
+   "date": "2026-11-18T21:01:26+00:00"
+  },
+  {
+   "id": "hT0qW_DRFLw",
+   "title": "The Reason No One Can Catch NVIDIA",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-18T19:02:01+00:00"
+  },
+  {
+   "id": "pVc6KkjeCfU",
+   "title": "Behind the scenes with Genie 4",
+   "channel": "Google DeepMind",
+   "date": "2026-11-18T18:12:24+00:00"
+  },
+  {
+   "id": "EDp4IoAUsXY",
+   "title": "Introducing the new Project Genie, powered by Genie 4",
+   "channel": "Google DeepMind",
+   "date": "2026-11-18T18:12:21+00:00"
+  },
+  {
    "id": "JVHkb8PTMvc",
    "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
    "channel": "Matt Wolfe",
@@ -31,14 +61,8 @@
    "date": "2026-11-17T18:41:32+00:00"
   },
   {
-   "id": "C1zYX5jwqq4",
-   "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-   "channel": "OpenAI",
-   "date": "2026-11-17T17:55:40+00:00"
-  },
-  {
    "id": "qbsb9DpdZ6s",
-   "title": "How to compress text to 1 bit per character | Information theory, part 3",
+   "title": "This algorithm changed how I think about compression | Information theory, part 3",
    "channel": "3Blue1Brown",
    "date": "2026-11-17T16:43:16+00:00"
   },
@@ -53,18 +77,6 @@
    "title": "OpenAI's New Breakthrough Is... Utter Chaos",
    "channel": "Two Minute Papers",
    "date": "2026-11-17T12:46:24+00:00"
-  },
-  {
-   "id": "btjS7OaffpM",
-   "title": "This had never been done before!",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-16T22:27:42+00:00"
-  },
-  {
-   "id": "ETw45WHQ6Z4",
-   "title": "3D Printing Entire Buildings is So Wild To Me",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-16T05:35:39+00:00"
   },
   {
    "id": "x7iwI6WfWS0",
@@ -119,18 +131,6 @@
    "title": "There's never been a better time to go into math",
    "channel": "3Blue1Brown",
    "date": "2026-10-16T16:15:20+00:00"
-  },
-  {
-   "id": "LVEfFyijQ2c",
-   "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-   "channel": "Google DeepMind",
-   "date": "2026-10-13T16:38:17+00:00"
-  },
-  {
-   "id": "ftkic7Tdpcg",
-   "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-   "channel": "Google DeepMind",
-   "date": "2026-10-13T16:38:14+00:00"
   },
   {
    "id": "C4Sq3Rot8FU",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-18T15:35:45.589707+00:00"
+ "updated": "2026-11-19T00:19:33.539403+00:00"
 }
