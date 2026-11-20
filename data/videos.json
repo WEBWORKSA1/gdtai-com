@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "id": "OSHSopaYjTw",
+   "title": "Create and Share a Dashboard in ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-20T06:07:50+00:00"
+  },
+  {
+   "id": "JEgTn37Sk50",
+   "title": "Ask Questions About Your Data in ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-20T06:05:59+00:00"
+  },
+  {
+   "id": "oJIuz3AFfEQ",
+   "title": "Connect Your Team’s Data to ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-20T06:02:57+00:00"
+  },
+  {
+   "id": "KrlfehIapEA",
+   "title": "Meet the Data Agent in ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-20T05:35:32+00:00"
+  },
+  {
    "id": "YbZDDCHDSnE",
    "title": "This will test if AI truly is a bubble",
    "channel": "Matt Wolfe",
@@ -31,12 +55,6 @@
    "date": "2026-11-19T15:02:49+00:00"
   },
   {
-   "id": "ikNf7eW8CHk",
-   "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
-   "channel": "OpenAI",
-   "date": "2026-11-19T11:38:57+00:00"
-  },
-  {
    "id": "Cy7Wz6Z4TWU",
    "title": "DeepMind Just Released The Best Thing AI Ever Did",
    "channel": "Two Minute Papers",
@@ -47,12 +65,6 @@
    "title": "Insane AI Breakthroughs Nobody Is Talking About",
    "channel": "Matt Wolfe",
    "date": "2026-11-18T22:08:16+00:00"
-  },
-  {
-   "id": "AhmCKHNqhB8",
-   "title": "Introducing ChatGPT for Accounting",
-   "channel": "OpenAI",
-   "date": "2026-11-18T21:01:26+00:00"
   },
   {
    "id": "hT0qW_DRFLw",
@@ -77,18 +89,6 @@
    "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
    "channel": "Matt Wolfe",
    "date": "2026-11-18T01:43:27+00:00"
-  },
-  {
-   "id": "2pdF52EVlbM",
-   "title": "An underrated way to use ChatGPT: Life admin",
-   "channel": "OpenAI",
-   "date": "2026-11-18T00:06:39+00:00"
-  },
-  {
-   "id": "pmOJIq7Ah00",
-   "title": "Introducing ChatGPT for Sales",
-   "channel": "OpenAI",
-   "date": "2026-11-17T23:24:04+00:00"
   },
   {
    "id": "qbsb9DpdZ6s",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-20T00:35:36.543044+00:00"
+ "updated": "2026-11-20T15:23:27.618800+00:00"
 }
