@@ -1,6 +1,240 @@
 {
  "items": [
   {
+   "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T00:34:07+00:00"
+  },
+  {
+   "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T00:33:30+00:00"
+  },
+  {
+   "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+   "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T23:02:16+00:00"
+  },
+  {
+   "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T22:20:23+00:00"
+  },
+  {
+   "title": "Run your whole selling business in AWS Quick",
+   "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T22:16:22+00:00"
+  },
+  {
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T21:58:06+00:00"
+  },
+  {
+   "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+   "url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+   "source": "MarkTechPost",
+   "date": "2026-11-19T21:46:22+00:00"
+  },
+  {
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T21:42:31+00:00"
+  },
+  {
+   "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T21:28:18+00:00"
+  },
+  {
+   "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+   "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T21:23:20+00:00"
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T20:18:49+00:00"
+  },
+  {
+   "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T20:01:06+00:00"
+  },
+  {
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-19T20:00:15+00:00"
+  },
+  {
+   "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T19:53:32+00:00"
+  },
+  {
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T19:10:45+00:00"
+  },
+  {
+   "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+   "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T18:48:55+00:00"
+  },
+  {
+   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "source": "Hacker News",
+   "date": "2026-11-19T18:47:16Z"
+  },
+  {
+   "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+   "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T18:26:22+00:00"
+  },
+  {
+   "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+   "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-19T18:20:54+00:00"
+  },
+  {
+   "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+   "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+   "source": "MarkTechPost",
+   "date": "2026-11-19T18:13:21+00:00"
+  },
+  {
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T18:09:11+00:00"
+  },
+  {
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "source": "Google AI",
+   "date": "2026-11-19T18:00:00+00:00"
+  },
+  {
+   "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+   "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+   "source": "MarkTechPost",
+   "date": "2026-11-19T17:47:00+00:00"
+  },
+  {
+   "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+   "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+   "source": "Hacker News",
+   "date": "2026-11-19T17:43:38Z"
+  },
+  {
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T17:38:40+00:00"
+  },
+  {
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge AI",
+   "date": "2026-11-19T17:31:41-05:00"
+  },
+  {
+   "title": "Anthropic’s Nasdaq debut",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "source": "Hacker News",
+   "date": "2026-11-19T17:02:40Z"
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-19T17:00:35+00:00"
+  },
+  {
+   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "source": "Google AI",
+   "date": "2026-11-19T17:00:00+00:00"
+  },
+  {
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T17:00:00+00:00"
+  },
+  {
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge AI",
+   "date": "2026-11-19T16:59:35-05:00"
+  },
+  {
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T16:59:23+00:00"
+  },
+  {
+   "title": "Chrome AI features wasting much bandwidth",
+   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+   "source": "Hacker News",
+   "date": "2026-11-19T16:54:25Z"
+  },
+  {
+   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+   "source": "Hacker News",
+   "date": "2026-11-19T16:45:50Z"
+  },
+  {
+   "title": "Fuck Your AI Safeguards",
+   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "source": "Hacker News",
+   "date": "2026-11-19T16:30:18Z"
+  },
+  {
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-19T16:19:41+00:00"
+  },
+  {
+   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "url": "https://thedataexchange.media/pete-warden-moonshine/",
+   "source": "Hacker News",
+   "date": "2026-11-19T15:38:12Z"
+  },
+  {
+   "title": "Meta’s Muse Charm might cost $300",
+   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "source": "The Verge AI",
+   "date": "2026-11-19T15:22:17-05:00"
+  },
+  {
+   "title": "Google is putting AI chats right on the homepage",
+   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "source": "The Verge AI",
+   "date": "2026-11-19T15:05:06-05:00"
+  },
+  {
    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
    "source": "TechCrunch AI",
@@ -25,16 +259,40 @@
    "date": "2026-11-19T13:21:20Z"
   },
   {
+   "title": "Gemini on Mac can now use your computer",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "source": "The Verge AI",
+   "date": "2026-11-19T13:21:13-05:00"
+  },
+  {
    "title": "The AI Superintelligence Debate Has Serious Flaws",
    "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
    "source": "Hacker News",
    "date": "2026-11-19T12:17:10Z"
   },
   {
+   "title": "Anthropic starts trading on Wall Street",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "source": "The Verge AI",
+   "date": "2026-11-19T11:52:01-05:00"
+  },
+  {
    "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
    "url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
    "source": "MarkTechPost",
    "date": "2026-11-19T10:45:57+00:00"
+  },
+  {
+   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+   "source": "The Verge AI",
+   "date": "2026-11-19T10:16:45-05:00"
+  },
+  {
+   "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+   "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+   "source": "Hacker News",
+   "date": "2026-11-19T10:10:20Z"
   },
   {
    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
@@ -47,6 +305,12 @@
    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
    "source": "The Verge AI",
    "date": "2026-11-19T08:00:00-05:00"
+  },
+  {
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "source": "OpenAI",
+   "date": "2026-11-19T08:00:00+00:00"
   },
   {
    "title": "Canva adds an AI ‘off’ button",
@@ -85,76 +349,28 @@
    "date": "2026-11-19T00:42:56+00:00"
   },
   {
-   "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-   "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T00:15:58+00:00"
+   "title": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "source": "OpenAI",
+   "date": "2026-11-19T00:00:00+00:00"
   },
   {
-   "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-   "url": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T23:58:22+00:00"
+   "title": "See PR scans in action",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "source": "OpenAI",
+   "date": "2026-11-19T00:00:00+00:00"
   },
   {
-   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T23:45:00+00:00"
+   "title": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "source": "OpenAI",
+   "date": "2026-11-19T00:00:00+00:00"
   },
   {
-   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T23:25:17+00:00"
-  },
-  {
-   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T23:17:28+00:00"
-  },
-  {
-   "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T23:03:29+00:00"
-  },
-  {
-   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-   "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T22:58:11+00:00"
-  },
-  {
-   "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T22:31:04+00:00"
-  },
-  {
-   "title": "Anthropic prices IPO at $83 a share, above projected range",
-   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T22:11:15+00:00"
-  },
-  {
-   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T21:57:40+00:00"
-  },
-  {
-   "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T21:48:19+00:00"
-  },
-  {
-   "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
-   "url": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T21:38:22+00:00"
+   "title": "Get started with Daybreak Blue",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "source": "OpenAI",
+   "date": "2026-11-19T00:00:00+00:00"
   },
   {
    "title": "Introducing Gemini 4 Neon",
@@ -163,28 +379,10 @@
    "date": "2026-11-18T21:35:43+00:00"
   },
   {
-   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T21:34:13+00:00"
-  },
-  {
    "title": "Gemini 4 Neon",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
    "source": "Hacker News",
    "date": "2026-11-18T21:34:07Z"
-  },
-  {
-   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T21:31:21+00:00"
-  },
-  {
-   "title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
-   "url": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T20:53:41+00:00"
   },
   {
    "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
@@ -193,46 +391,10 @@
    "date": "2026-11-18T20:20:17Z"
   },
   {
-   "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T20:13:18+00:00"
-  },
-  {
-   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-   "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-18T20:07:01+00:00"
-  },
-  {
    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
    "source": "Hugging Face",
    "date": "2026-11-18T19:54:56+00:00"
-  },
-  {
-   "title": "How Social Department built culture-aware video discovery",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T19:27:56+00:00"
-  },
-  {
-   "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
-   "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T19:05:45+00:00"
-  },
-  {
-   "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T18:58:42+00:00"
-  },
-  {
-   "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
-   "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-18T18:54:08+00:00"
   },
   {
    "title": "Why your fine-tuning job takes longer than the FLOPs say",
@@ -247,10 +409,10 @@
    "date": "2026-11-18T18:49:51Z"
   },
   {
-   "title": "The nation’s largest school districts consider ditching Google Search",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-   "source": "The Verge AI",
-   "date": "2026-11-18T18:18:35-05:00"
+   "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+   "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+   "source": "Hacker News",
+   "date": "2026-11-18T17:41:48Z"
   },
   {
    "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
@@ -307,24 +469,6 @@
    "date": "2026-11-18T14:42:44+00:00"
   },
   {
-   "title": "Trump’s latest land grab is an AI hub in the Philippines",
-   "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-   "source": "The Verge AI",
-   "date": "2026-11-18T14:40:36-05:00"
-  },
-  {
-   "title": "Nvidia’s rise, visualized",
-   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-   "source": "The Verge AI",
-   "date": "2026-11-18T14:30:00-05:00"
-  },
-  {
-   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-   "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-   "source": "The Verge AI",
-   "date": "2026-11-18T14:07:29-05:00"
-  },
-  {
    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
    "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
    "source": "NVIDIA Blog",
@@ -335,150 +479,6 @@
    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
    "source": "Hacker News",
    "date": "2026-11-18T13:51:03Z"
-  },
-  {
-   "title": "What is Nvidia without AI’s sugar daddy in charge?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-   "source": "The Verge AI",
-   "date": "2026-11-18T13:34:15-05:00"
-  },
-  {
-   "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-   "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-   "source": "The Verge AI",
-   "date": "2026-11-18T12:50:57-05:00"
-  },
-  {
-   "title": "Remember the frontier AI pause? Chip companies don’t either",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-   "source": "The Verge AI",
-   "date": "2026-11-18T10:44:02-05:00"
-  },
-  {
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "source": "MIT Technology Review",
-   "date": "2026-11-18T10:20:30+00:00"
-  },
-  {
-   "title": "The Silent Consensus",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "source": "OpenAI",
-   "date": "2026-11-18T10:00:00+00:00"
-  },
-  {
-   "title": "Research acceleration: The jagged frontier",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "source": "OpenAI",
-   "date": "2026-11-18T08:00:00+00:00"
-  },
-  {
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "url": "https://openai.com/business/customer-stories/sumitomo-life",
-   "source": "OpenAI",
-   "date": "2026-11-18T08:00:00+00:00"
-  },
-  {
-   "title": "Inside the Codex sandbox",
-   "url": "https://openai.com/index/inside-the-codex-sandbox",
-   "source": "OpenAI",
-   "date": "2026-11-18T08:00:00+00:00"
-  },
-  {
-   "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
-   "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-   "source": "MarkTechPost",
-   "date": "2026-11-18T07:10:53+00:00"
-  },
-  {
-   "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
-   "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-   "source": "MarkTechPost",
-   "date": "2026-11-18T06:53:28+00:00"
-  },
-  {
-   "title": "AI is killing All About Berlin",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai",
-   "source": "Hacker News",
-   "date": "2026-11-18T06:47:26Z"
-  },
-  {
-   "title": "Managing frontier AI risk: From training to deployment",
-   "url": "https://openai.com/index/managing-frontier-ai-risk",
-   "source": "OpenAI",
-   "date": "2026-11-18T06:00:00+00:00"
-  },
-  {
-   "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-   "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
-   "source": "Hacker News",
-   "date": "2026-11-18T01:45:11Z"
-  },
-  {
-   "title": "Cerebras Disaggregated Inference",
-   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-   "source": "Hacker News",
-   "date": "2026-11-18T00:56:23Z"
-  },
-  {
-   "title": "Google's AI answers reducing search traffic by 40%",
-   "url": "https://revscope.co/blog/search-seo-geo-2026/",
-   "source": "Hacker News",
-   "date": "2026-11-18T00:17:58Z"
-  },
-  {
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "source": "OpenAI",
-   "date": "2026-11-18T00:00:00+00:00"
-  },
-  {
-   "title": "Advancing chip design with OpenAI models",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "source": "OpenAI",
-   "date": "2026-11-18T00:00:00+00:00"
-  },
-  {
-   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-   "url": "https://huggingface.co/blog/moe-expert-streaming",
-   "source": "Hugging Face",
-   "date": "2026-11-18T00:00:00+00:00"
-  },
-  {
-   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-   "url": "https://huggingface.co/blog/rumble-2-flash",
-   "source": "Hugging Face",
-   "date": "2026-11-18T00:00:00+00:00"
-  },
-  {
-   "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
-   "url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
-   "source": "MarkTechPost",
-   "date": "2026-11-17T22:52:04+00:00"
-  },
-  {
-   "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
-   "url": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
-   "source": "MarkTechPost",
-   "date": "2026-11-17T22:07:30+00:00"
-  },
-  {
-   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "source": "Hacker News",
-   "date": "2026-11-17T21:16:12Z"
-  },
-  {
-   "title": "Tencent Hy4 Flash",
-   "url": "https://hy.tencent.ai/research/hy4-flash",
-   "source": "Hacker News",
-   "date": "2026-11-17T21:06:08Z"
-  },
-  {
-   "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
-   "url": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
-   "source": "MarkTechPost",
-   "date": "2026-11-17T20:49:45+00:00"
   }
  ],
  "papers": [
@@ -699,5 +699,5 @@
    "date": "2026-11-19T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-19T15:41:04.182264+00:00"
+ "updated": "2026-11-20T00:35:36.543044+00:00"
 }

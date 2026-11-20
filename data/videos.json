@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "id": "YbZDDCHDSnE",
+   "title": "This will test if AI truly is a bubble",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-19T21:14:46+00:00"
+  },
+  {
+   "id": "sof3vW4mHTs",
+   "title": "The making of Anthropic",
+   "channel": "Anthropic",
+   "date": "2026-11-19T21:03:23+00:00"
+  },
+  {
+   "id": "KGA7B_c_S4s",
+   "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+   "channel": "AI Explained",
+   "date": "2026-11-19T20:03:10+00:00"
+  },
+  {
+   "id": "FORdPIWOH5k",
+   "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+   "channel": "Google DeepMind",
+   "date": "2026-11-19T19:58:06+00:00"
+  },
+  {
    "id": "JDsFHmq9hlA",
    "title": "What we make of this moment, will make this moment.",
    "channel": "Anthropic",
@@ -14,7 +38,7 @@
   },
   {
    "id": "Cy7Wz6Z4TWU",
-   "title": "DeepMind Just Did Something Extraordinary For Humanity",
+   "title": "DeepMind Just Released The Best Thing AI Ever Did",
    "channel": "Two Minute Papers",
    "date": "2026-11-19T09:26:19+00:00"
   },
@@ -59,12 +83,6 @@
    "title": "An underrated way to use ChatGPT: Life admin",
    "channel": "OpenAI",
    "date": "2026-11-18T00:06:39+00:00"
-  },
-  {
-   "id": "LxKNPrXBuyU",
-   "title": "ChatGPT 6.2 Astra is \"A Mess\"",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-17T23:38:50+00:00"
   },
   {
    "id": "pmOJIq7Ah00",
@@ -121,12 +139,6 @@
    "date": "2026-11-02T17:02:16+00:00"
   },
   {
-   "id": "sFfPkUJd_Jk",
-   "title": "Genie 4: A new generation of world simulation",
-   "channel": "Google DeepMind",
-   "date": "2026-10-27T16:00:41+00:00"
-  },
-  {
    "id": "V_uq3v6xK-4",
    "title": "The Sphere Intersection Puzzle",
    "channel": "3Blue1Brown",
@@ -143,12 +155,6 @@
    "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
    "channel": "AI Explained",
    "date": "2026-10-12T22:52:31+00:00"
-  },
-  {
-   "id": "_rtp1XzaP6Q",
-   "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
-   "channel": "AI Explained",
-   "date": "2026-10-01T21:20:12+00:00"
   },
   {
    "id": "DdCEmlAydcw",
@@ -181,12 +187,6 @@
    "date": "2026-09-01T19:21:24+00:00"
   },
   {
-   "id": "ROF2Nv_KjOM",
-   "title": "Introducing Claude Fable 5.1",
-   "channel": "Anthropic",
-   "date": "2026-09-01T18:02:31+00:00"
-  },
-  {
    "id": "_9OT25ZvrWs",
    "title": "I don't prompt agents anymore...",
    "channel": "AI Jason",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-19T15:41:04.182264+00:00"
+ "updated": "2026-11-20T00:35:36.543044+00:00"
 }
