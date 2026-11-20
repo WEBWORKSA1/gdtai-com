@@ -1,6 +1,84 @@
 {
  "items": [
   {
+   "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T23:07:03+00:00"
+  },
+  {
+   "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T22:35:24+00:00"
+  },
+  {
+   "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T20:37:31+00:00"
+  },
+  {
+   "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+   "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T20:22:00+00:00"
+  },
+  {
+   "title": "Inkling 2 Mini",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "source": "Hacker News",
+   "date": "2026-11-20T20:12:19Z"
+  },
+  {
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-20T19:53:41+00:00"
+  },
+  {
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-20T19:32:08+00:00"
+  },
+  {
+   "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T18:24:06+00:00"
+  },
+  {
+   "title": "The most misunderstood graph in AI just got a major update",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-20T18:15:15+00:00"
+  },
+  {
+   "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+   "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+   "source": "MarkTechPost",
+   "date": "2026-11-20T17:42:29+00:00"
+  },
+  {
+   "title": "Chips can survive the space environment — can their financing?",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-20T17:40:01+00:00"
+  },
+  {
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "source": "Hacker News",
+   "date": "2026-11-20T16:59:27Z"
+  },
+  {
+   "title": "AI is giving everyone the same advice",
+   "url": "https://a90.com/experiments/same-advice/",
+   "source": "Hacker News",
+   "date": "2026-11-20T16:58:05Z"
+  },
+  {
    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
    "source": "TechCrunch AI",
@@ -19,16 +97,40 @@
    "date": "2026-11-20T14:00:00+00:00"
   },
   {
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge AI",
+   "date": "2026-11-20T13:50:19-05:00"
+  },
+  {
    "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "source": "Hacker News",
    "date": "2026-11-20T13:29:59Z"
   },
   {
+   "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+   "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+   "source": "Hacker News",
+   "date": "2026-11-20T12:16:36Z"
+  },
+  {
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge AI",
+   "date": "2026-11-20T11:34:13-05:00"
+  },
+  {
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "url": "https://architectlabs.com/blog/frostbite",
    "source": "Hacker News",
    "date": "2026-11-20T10:01:41Z"
+  },
+  {
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI",
+   "date": "2026-11-20T10:00:00+00:00"
   },
   {
    "title": "The week everything fell apart",
@@ -65,6 +167,24 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
    "source": "AWS ML Blog",
    "date": "2026-11-20T00:33:30+00:00"
+  },
+  {
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI",
+   "date": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI",
+   "date": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "source": "Hugging Face",
+   "date": "2026-11-20T00:00:00+00:00"
   },
   {
    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -133,34 +253,16 @@
    "date": "2026-11-19T20:18:49+00:00"
   },
   {
-   "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T20:01:06+00:00"
-  },
-  {
    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
    "source": "NVIDIA Blog",
    "date": "2026-11-19T20:00:15+00:00"
   },
   {
-   "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
-   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T19:53:32+00:00"
-  },
-  {
    "title": "Anthropic’s IPO could deliver $156B to charity",
    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
    "source": "TechCrunch AI",
    "date": "2026-11-19T19:10:45+00:00"
-  },
-  {
-   "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
-   "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T18:48:55+00:00"
   },
   {
    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
@@ -173,18 +275,6 @@
    "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
    "source": "Hacker News",
    "date": "2026-11-19T18:42:13Z"
-  },
-  {
-   "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
-   "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T18:26:22+00:00"
-  },
-  {
-   "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
-   "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T18:20:54+00:00"
   },
   {
    "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
@@ -217,12 +307,6 @@
    "date": "2026-11-19T17:43:38Z"
   },
   {
-   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T17:38:40+00:00"
-  },
-  {
    "title": "Apple is hiring engineers to build its own AI agent",
    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
    "source": "The Verge AI",
@@ -247,22 +331,10 @@
    "date": "2026-11-19T17:00:00+00:00"
   },
   {
-   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-   "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T17:00:00+00:00"
-  },
-  {
    "title": "A brief history of Nvidia’s recent stock fluctuations",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
    "source": "The Verge AI",
    "date": "2026-11-19T16:59:35-05:00"
-  },
-  {
-   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T16:59:23+00:00"
   },
   {
    "title": "Chrome AI features wasting much bandwidth",
@@ -343,22 +415,10 @@
    "date": "2026-11-19T10:45:57+00:00"
   },
   {
-   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-   "source": "The Verge AI",
-   "date": "2026-11-19T10:16:45-05:00"
-  },
-  {
    "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
    "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
    "source": "Hacker News",
    "date": "2026-11-19T10:10:20Z"
-  },
-  {
-   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "source": "The Verge AI",
-   "date": "2026-11-19T09:25:37-05:00"
   },
   {
    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -391,8 +451,8 @@
    "date": "2026-11-19T00:57:20Z"
   },
   {
-   "title": "Deploying Daybreak Red",
-   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "title": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
    "source": "OpenAI",
    "date": "2026-11-19T00:00:00+00:00"
   },
@@ -403,14 +463,14 @@
    "date": "2026-11-19T00:00:00+00:00"
   },
   {
-   "title": "Explore the Codex Security Plugin",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "title": "Get started with Daybreak Blue",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
    "source": "OpenAI",
    "date": "2026-11-19T00:00:00+00:00"
   },
   {
-   "title": "Get started with Daybreak Blue",
-   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "title": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
    "source": "OpenAI",
    "date": "2026-11-19T00:00:00+00:00"
   },
@@ -419,66 +479,6 @@
    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
    "source": "Google DeepMind",
    "date": "2026-11-18T21:35:43+00:00"
-  },
-  {
-   "title": "Gemini 4 Neon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "source": "Hacker News",
-   "date": "2026-11-18T21:34:07Z"
-  },
-  {
-   "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-   "source": "Hacker News",
-   "date": "2026-11-18T20:20:17Z"
-  },
-  {
-   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-   "source": "Hugging Face",
-   "date": "2026-11-18T19:54:56+00:00"
-  },
-  {
-   "title": "Why your fine-tuning job takes longer than the FLOPs say",
-   "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-   "source": "Hugging Face",
-   "date": "2026-11-18T18:53:43+00:00"
-  },
-  {
-   "title": "Genie 4 is now available",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-   "source": "Hacker News",
-   "date": "2026-11-18T18:49:51Z"
-  },
-  {
-   "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-   "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
-   "source": "Hacker News",
-   "date": "2026-11-18T17:41:48Z"
-  },
-  {
-   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-   "url": "https://news.ycombinator.com/item?id=50549188",
-   "source": "Hacker News",
-   "date": "2026-11-18T17:26:28Z"
-  },
-  {
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "source": "Google AI",
-   "date": "2026-11-18T17:00:00+00:00"
-  },
-  {
-   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-   "url": "https://news.ycombinator.com/item?id=50548660",
-   "source": "Hacker News",
-   "date": "2026-11-18T16:53:42Z"
-  },
-  {
-   "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-   "source": "Hacker News",
-   "date": "2026-11-18T16:41:22Z"
   }
  ],
  "papers": [
@@ -699,5 +699,5 @@
    "date": "2026-11-20T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-20T15:23:27.618800+00:00"
+ "updated": "2026-11-20T23:58:09.341399+00:00"
 }
