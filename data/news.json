@@ -1,6 +1,48 @@
 {
  "items": [
   {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-21T17:00:00+00:00"
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-21T16:00:00+00:00"
+  },
+  {
+   "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+   "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+   "source": "MarkTechPost",
+   "date": "2026-11-21T12:13:50+00:00"
+  },
+  {
+   "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+   "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+   "source": "MarkTechPost",
+   "date": "2026-11-21T11:46:17+00:00"
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge AI",
+   "date": "2026-11-21T10:00:00-05:00"
+  },
+  {
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "source": "The Verge AI",
+   "date": "2026-11-21T09:00:00-05:00"
+  },
+  {
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "url": "http://ricapar.net/ClawDOS/",
+   "source": "Hacker News",
+   "date": "2026-11-21T05:38:01Z"
+  },
+  {
    "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
    "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
    "source": "MarkTechPost",
@@ -283,12 +325,6 @@
    "date": "2026-11-19T20:00:15+00:00"
   },
   {
-   "title": "Anthropic’s IPO could deliver $156B to charity",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T19:10:45+00:00"
-  },
-  {
    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
    "source": "Hacker News",
@@ -305,12 +341,6 @@
    "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
    "source": "MarkTechPost",
    "date": "2026-11-19T18:13:21+00:00"
-  },
-  {
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T18:09:11+00:00"
   },
   {
    "title": "Introducing Tool Retrieval in the Gemini API",
@@ -415,22 +445,10 @@
    "date": "2026-11-19T13:21:20Z"
   },
   {
-   "title": "Gemini on Mac can now use your computer",
-   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-   "source": "The Verge AI",
-   "date": "2026-11-19T13:21:13-05:00"
-  },
-  {
    "title": "The AI Superintelligence Debate Has Serious Flaws",
    "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
    "source": "Hacker News",
    "date": "2026-11-19T12:17:10Z"
-  },
-  {
-   "title": "Anthropic starts trading on Wall Street",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "source": "The Verge AI",
-   "date": "2026-11-19T11:52:01-05:00"
   },
   {
    "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
@@ -457,28 +475,10 @@
    "date": "2026-11-19T06:52:26+00:00"
   },
   {
-   "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
-   "url": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
-   "source": "MarkTechPost",
-   "date": "2026-11-19T03:23:50+00:00"
-  },
-  {
    "title": "AI will not make you rich (2025)",
    "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
    "source": "Hacker News",
    "date": "2026-11-19T01:51:28Z"
-  },
-  {
-   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-   "source": "Hacker News",
-   "date": "2026-11-19T00:57:20Z"
-  },
-  {
-   "title": "Explore the Codex Security Plugin",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "source": "OpenAI",
-   "date": "2026-11-19T00:00:00+00:00"
   }
  ],
  "papers": [
@@ -555,5 +555,5 @@
    "date": "2026-11-21T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-21T06:59:53.465665+00:00"
+ "updated": "2026-11-21T19:10:49.773384+00:00"
 }
