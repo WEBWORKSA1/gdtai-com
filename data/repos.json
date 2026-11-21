@@ -3,143 +3,143 @@
   {
    "name": "ccch1mneyyy/dsh-Go",
    "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "stars": 28996,
+   "stars": 29173,
    "lang": "Dart",
    "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
   },
   {
    "name": "wangzan101/Mika",
    "url": "https://github.com/wangzan101/Mika",
-   "stars": 9299,
+   "stars": 9323,
    "lang": "Kotlin",
    "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you."
   },
   {
    "name": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 6121,
+   "stars": 6142,
    "lang": "TypeScript",
    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
   },
   {
    "name": "mdiri-ai/SoduWork",
    "url": "https://github.com/mdiri-ai/SoduWork",
-   "stars": 5966,
+   "stars": 6139,
    "lang": "JavaScript",
    "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
   },
   {
    "name": "modelflare-ai/AnyModelBot",
    "url": "https://github.com/modelflare-ai/AnyModelBot",
-   "stars": 4857,
+   "stars": 4912,
    "lang": "Python",
    "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. "
   },
   {
    "name": "expo/exact",
    "url": "https://github.com/expo/exact",
-   "stars": 4826,
+   "stars": 4838,
    "lang": "Rust",
    "desc": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them."
   },
   {
    "name": "N1nEmAn/sapper-v2",
    "url": "https://github.com/N1nEmAn/sapper-v2",
-   "stars": 2516,
+   "stars": 2519,
    "lang": "Python",
    "desc": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Founda"
   },
   {
    "name": "Sandflow-ai/sand3d",
    "url": "https://github.com/Sandflow-ai/sand3d",
-   "stars": 2203,
+   "stars": 2209,
    "lang": "HTML",
    "desc": "3D modeling in Python, built for LLMs."
   },
   {
    "name": "daveebbelaar/bama",
    "url": "https://github.com/daveebbelaar/bama",
-   "stars": 1922,
+   "stars": 1923,
    "lang": "Swift",
    "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI."
   },
   {
    "name": "yjid/kensaku",
    "url": "https://github.com/yjid/kensaku",
-   "stars": 1882,
+   "stars": 1884,
    "lang": "Rust",
    "desc": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access."
   },
   {
    "name": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 1846,
+   "stars": 1864,
    "lang": "TypeScript",
    "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and "
   },
   {
    "name": "bookwjitchieni1986/blender-ai-mcp-addon",
    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-   "stars": 1762,
+   "stars": 1857,
    "lang": null,
    "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti"
   },
   {
    "name": "JosssphZhou/poki",
    "url": "https://github.com/JosssphZhou/poki",
-   "stars": 1697,
+   "stars": 1706,
    "lang": "Swift",
    "desc": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account."
   },
   {
    "name": "voyager-so/vork",
    "url": "https://github.com/voyager-so/vork",
-   "stars": 1667,
+   "stars": 1668,
    "lang": "Rust",
    "desc": "Headless 3D and VFX engine for agents. Research preview."
   },
   {
    "name": "RunanywhereAI/trnrt",
    "url": "https://github.com/RunanywhereAI/trnrt",
-   "stars": 1649,
+   "stars": 1653,
    "lang": "Python",
    "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
   },
   {
    "name": "synchopate/llama-modchip",
    "url": "https://github.com/synchopate/llama-modchip",
-   "stars": 1389,
+   "stars": 1396,
    "lang": "Python",
    "desc": "Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0."
   },
   {
    "name": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "stars": 1327,
+   "stars": 1379,
    "lang": "Python",
    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
   },
   {
-   "name": "wici-ai/inferssd",
-   "url": "https://github.com/wici-ai/inferssd",
-   "stars": 1275,
-   "lang": "C++",
-   "desc": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp."
-  },
-  {
    "name": "emanuele-em/kanzo",
    "url": "https://github.com/emanuele-em/kanzo",
-   "stars": 1253,
+   "stars": 1255,
    "lang": "Rust",
    "desc": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup."
   },
   {
    "name": "dabingfy-dot/solo-to-team-skills",
    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-   "stars": 1077,
+   "stars": 1080,
    "lang": "HTML",
    "desc": "Human-led MAS toolkit: 16 roles, 6 group templates, four platform bundles, evidence-based review and handoff. 一人成队：一个人统筹多智能体协作。"
+  },
+  {
+   "name": "hyperionaidev/smolmaxxing",
+   "url": "https://github.com/hyperionaidev/smolmaxxing",
+   "stars": 1072,
+   "lang": "C",
+   "desc": "maxxing the ability to run different LLMs on the smallest devices possible"
   }
  ],
- "updated": "2026-11-20T23:58:09.341399+00:00"
+ "updated": "2026-11-21T06:59:53.465665+00:00"
 }

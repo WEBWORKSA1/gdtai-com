@@ -1,6 +1,30 @@
 {
  "items": [
   {
+   "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+   "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+   "source": "MarkTechPost",
+   "date": "2026-11-21T04:01:04+00:00"
+  },
+  {
+   "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+   "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-21T01:06:42+00:00"
+  },
+  {
+   "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+   "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-21T00:14:26+00:00"
+  },
+  {
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "url": "https://news.ycombinator.com/item?id=50583761",
+   "source": "Hacker News",
+   "date": "2026-11-20T23:18:32Z"
+  },
+  {
    "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
    "source": "AWS ML Blog",
@@ -11,6 +35,12 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
    "source": "AWS ML Blog",
    "date": "2026-11-20T22:35:24+00:00"
+  },
+  {
+   "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+   "source": "Hacker News",
+   "date": "2026-11-20T21:18:46Z"
   },
   {
    "title": "How Standard Bank Group automates AI risk assessment for generative AI",
@@ -67,7 +97,7 @@
    "date": "2026-11-20T17:40:01+00:00"
   },
   {
-   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "title": "Google workers tell their employer not to punish schools that don't want AI",
    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
    "source": "Hacker News",
    "date": "2026-11-20T16:59:27Z"
@@ -103,7 +133,7 @@
    "date": "2026-11-20T13:50:19-05:00"
   },
   {
-   "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "source": "Hacker News",
    "date": "2026-11-20T13:29:59Z"
@@ -131,6 +161,12 @@
    "url": "https://openai.com/index/combatting-adversarial-distillation",
    "source": "OpenAI",
    "date": "2026-11-20T10:00:00+00:00"
+  },
+  {
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "source": "Hacker News",
+   "date": "2026-11-20T09:42:16Z"
   },
   {
    "title": "The week everything fell apart",
@@ -233,18 +269,6 @@
    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
    "source": "TechCrunch AI",
    "date": "2026-11-19T21:42:31+00:00"
-  },
-  {
-   "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
-   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T21:28:18+00:00"
-  },
-  {
-   "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
-   "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T21:23:20+00:00"
   },
   {
    "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -455,249 +479,81 @@
    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
    "source": "OpenAI",
    "date": "2026-11-19T00:00:00+00:00"
-  },
-  {
-   "title": "See PR scans in action",
-   "url": "https://openai.com/business/learn/pr-scans-demo",
-   "source": "OpenAI",
-   "date": "2026-11-19T00:00:00+00:00"
-  },
-  {
-   "title": "Get started with Daybreak Blue",
-   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-   "source": "OpenAI",
-   "date": "2026-11-19T00:00:00+00:00"
-  },
-  {
-   "title": "Deploying Daybreak Red",
-   "url": "https://openai.com/business/learn/deploying-daybreak-red",
-   "source": "OpenAI",
-   "date": "2026-11-19T00:00:00+00:00"
-  },
-  {
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source": "Google DeepMind",
-   "date": "2026-11-18T21:35:43+00:00"
   }
  ],
  "papers": [
   {
-   "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-   "url": "https://arxiv.org/abs/2611.25043",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-   "url": "https://arxiv.org/abs/2611.25070",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
-   "url": "https://arxiv.org/abs/2611.25087",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
-   "url": "https://arxiv.org/abs/2611.25088",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
-   "url": "https://arxiv.org/abs/2611.25109",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
-   "url": "https://arxiv.org/abs/2611.25111",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
-   "url": "https://arxiv.org/abs/2611.25135",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
-   "url": "https://arxiv.org/abs/2611.25146",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
-   "url": "https://arxiv.org/abs/2611.25171",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
-   "url": "https://arxiv.org/abs/2611.25184",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "When AI Analysts Disagree: Agentic Multiverse Analysis and the Robustness of Empirical Research",
-   "url": "https://arxiv.org/abs/2611.25198",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "Steering Automated Scientific Discovery via Audited Epistemic Exploration",
-   "url": "https://arxiv.org/abs/2611.25214",
-   "source": "arXiv cs.AI",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
-   "url": "https://arxiv.org/abs/2611.24943",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
-   "url": "https://arxiv.org/abs/2611.24959",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
-   "url": "https://arxiv.org/abs/2611.24960",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality",
-   "url": "https://arxiv.org/abs/2611.24963",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "Global Importance Estimation for KV Cache Eviction",
-   "url": "https://arxiv.org/abs/2611.24969",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
-   "url": "https://arxiv.org/abs/2611.24970",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets",
-   "url": "https://arxiv.org/abs/2611.24971",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "No-Harm-Jury A Jury-Based Multi-Dimensional Harm Evaluation Framework for Medical AI Responses",
-   "url": "https://arxiv.org/abs/2611.24972",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
-   "url": "https://arxiv.org/abs/2611.24977",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "Quantifying Cultural-Psychological Constructs in Four Centuries of Ottoman Court Registers",
-   "url": "https://arxiv.org/abs/2611.24981",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "What the model knows but does not say: monitoring medical LLMs through verbalized thoughts",
-   "url": "https://arxiv.org/abs/2611.24994",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
-   "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
-   "url": "https://arxiv.org/abs/2611.25071",
-   "source": "arXiv cs.CL",
-   "date": "2026-11-20T00:00:00-05:00"
-  },
-  {
    "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
    "url": "https://arxiv.org/abs/2611.24999",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
    "url": "https://arxiv.org/abs/2611.25000",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
    "url": "https://arxiv.org/abs/2611.25001",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "A Model of Diverse Sampling from Language Models",
    "url": "https://arxiv.org/abs/2611.25003",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
    "url": "https://arxiv.org/abs/2611.25004",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Near-Quadratic Sample Compression for All VC Classes",
    "url": "https://arxiv.org/abs/2611.25011",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
    "url": "https://arxiv.org/abs/2611.25100",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
    "url": "https://arxiv.org/abs/2611.25108",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
    "url": "https://arxiv.org/abs/2611.25114",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Auditing Learned Dynamics in Weather Models",
    "url": "https://arxiv.org/abs/2611.25119",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
    "url": "https://arxiv.org/abs/2611.25130",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   },
   {
    "title": "Rate-distortion Assessment for Hierarchical Content Summarization",
    "url": "https://arxiv.org/abs/2611.25151",
    "source": "arXiv cs.LG",
-   "date": "2026-11-20T00:00:00-05:00"
+   "date": "2026-11-21T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-20T23:58:09.341399+00:00"
+ "updated": "2026-11-21T06:59:53.465665+00:00"
 }

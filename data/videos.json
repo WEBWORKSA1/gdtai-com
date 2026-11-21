@@ -1,6 +1,12 @@
 {
  "items": [
   {
+   "id": "7_pMINxEEPU",
+   "title": "What else could you use this for?",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-21T03:42:44+00:00"
+  },
+  {
    "id": "mX7wHNnsghs",
    "title": "How to claim your business in ChatGPT with Shopify",
    "channel": "OpenAI",
@@ -71,12 +77,6 @@
    "title": "Insane AI Breakthroughs Nobody Is Talking About",
    "channel": "Matt Wolfe",
    "date": "2026-11-18T22:08:16+00:00"
-  },
-  {
-   "id": "hT0qW_DRFLw",
-   "title": "The Reason No One Can Catch NVIDIA",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-18T19:02:01+00:00"
   },
   {
    "id": "pVc6KkjeCfU",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-20T23:58:09.341399+00:00"
+ "updated": "2026-11-21T06:59:53.465665+00:00"
 }
