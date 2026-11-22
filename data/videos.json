@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "id": "zqzk43bSdDI",
+   "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "channel": "3Blue1Brown",
+   "date": "2026-11-22T02:02:12+00:00"
+  },
+  {
+   "id": "GFxHjrYwoFk",
+   "title": "They built cyborg cockroaches with built-in AI...",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-21T21:25:07+00:00"
+  },
+  {
    "id": "7_pMINxEEPU",
    "title": "What else could you use this for?",
    "channel": "Matt Wolfe",
@@ -26,7 +38,7 @@
   },
   {
    "id": "WGvsk0LIveU",
-   "title": "3 ChatGPT Tips to Save Money",
+   "title": "3 Tips to Save Money With ChatGPT",
    "channel": "OpenAI",
    "date": "2026-11-20T16:00:17+00:00"
   },
@@ -71,12 +83,6 @@
    "title": "DeepMind Just Released The Best Thing AI Ever Did",
    "channel": "Two Minute Papers",
    "date": "2026-11-19T09:26:19+00:00"
-  },
-  {
-   "id": "-oA6oLxWpJg",
-   "title": "Insane AI Breakthroughs Nobody Is Talking About",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-18T22:08:16+00:00"
   },
   {
    "id": "pVc6KkjeCfU",
@@ -145,12 +151,6 @@
    "date": "2026-10-25T14:30:46+00:00"
   },
   {
-   "id": "LKrwhjOI8Nc",
-   "title": "There's never been a better time to go into math",
-   "channel": "3Blue1Brown",
-   "date": "2026-10-16T16:15:20+00:00"
-  },
-  {
    "id": "C4Sq3Rot8FU",
    "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
    "channel": "AI Explained",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-21T19:10:49.773384+00:00"
+ "updated": "2026-11-22T06:41:31.818623+00:00"
 }

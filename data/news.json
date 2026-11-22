@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "title": "Data Processing Incidents on Inference Providers",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "source": "Hacker News",
+   "date": "2026-11-22T02:14:14Z"
+  },
+  {
+   "title": "Meta ads is now available in AWS Quick",
+   "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-22T01:59:13+00:00"
+  },
+  {
+   "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+   "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+   "source": "MarkTechPost",
+   "date": "2026-11-22T01:51:43+00:00"
+  },
+  {
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "source": "Hacker News",
+   "date": "2026-11-21T23:10:21Z"
+  },
+  {
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-21T21:37:10+00:00"
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-21T21:07:42+00:00"
+  },
+  {
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "url": "https://www.pandex.io",
+   "source": "Hacker News",
+   "date": "2026-11-21T20:47:41Z"
+  },
+  {
+   "title": "Upload2Shell (CVE-2026-125396)",
+   "url": "https://pwn.ai/upload2shell",
+   "source": "Hacker News",
+   "date": "2026-11-21T18:29:29Z"
+  },
+  {
    "title": "Here are the top AI agents that can live in your text messages",
    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "source": "TechCrunch AI",
@@ -11,6 +59,12 @@
    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "source": "TechCrunch AI",
    "date": "2026-11-21T16:00:00+00:00"
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge AI",
+   "date": "2026-11-21T15:03:37-05:00"
   },
   {
    "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
@@ -77,6 +131,12 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
    "source": "AWS ML Blog",
    "date": "2026-11-20T22:35:24+00:00"
+  },
+  {
+   "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Hacker News",
+   "date": "2026-11-20T21:53:39Z"
   },
   {
    "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
@@ -289,12 +349,6 @@
    "date": "2026-11-19T22:20:23+00:00"
   },
   {
-   "title": "Run your whole selling business in AWS Quick",
-   "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-19T22:16:22+00:00"
-  },
-  {
    "title": "Meta’s new Muse Charm device may cost $300",
    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
    "source": "TechCrunch AI",
@@ -305,18 +359,6 @@
    "url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
    "source": "MarkTechPost",
    "date": "2026-11-19T21:46:22+00:00"
-  },
-  {
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T21:42:31+00:00"
-  },
-  {
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T20:18:49+00:00"
   },
   {
    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -427,12 +469,6 @@
    "date": "2026-11-19T15:16:02Z"
   },
   {
-   "title": "Google is putting AI chats right on the homepage",
-   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-   "source": "The Verge AI",
-   "date": "2026-11-19T15:05:06-05:00"
-  },
-  {
    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
    "source": "NVIDIA Blog",
@@ -443,42 +479,6 @@
    "url": "https://foolscap.works/",
    "source": "Hacker News",
    "date": "2026-11-19T13:21:20Z"
-  },
-  {
-   "title": "The AI Superintelligence Debate Has Serious Flaws",
-   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
-   "source": "Hacker News",
-   "date": "2026-11-19T12:17:10Z"
-  },
-  {
-   "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
-   "url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-   "source": "MarkTechPost",
-   "date": "2026-11-19T10:45:57+00:00"
-  },
-  {
-   "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
-   "url": "https://www.stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
-   "source": "Hacker News",
-   "date": "2026-11-19T10:10:20Z"
-  },
-  {
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "source": "OpenAI",
-   "date": "2026-11-19T08:00:00+00:00"
-  },
-  {
-   "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
-   "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-   "source": "MarkTechPost",
-   "date": "2026-11-19T06:52:26+00:00"
-  },
-  {
-   "title": "AI will not make you rich (2025)",
-   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-   "source": "Hacker News",
-   "date": "2026-11-19T01:51:28Z"
   }
  ],
  "papers": [
@@ -555,5 +555,5 @@
    "date": "2026-11-21T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-21T19:10:49.773384+00:00"
+ "updated": "2026-11-22T06:41:31.818623+00:00"
 }
