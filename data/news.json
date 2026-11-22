@@ -1,10 +1,88 @@
 {
  "items": [
   {
+   "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+   "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+   "source": "MarkTechPost",
+   "date": "2026-11-22T18:37:57+00:00"
+  },
+  {
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-22T18:08:43+00:00"
+  },
+  {
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "source": "The Verge AI",
+   "date": "2026-11-22T12:25:20-05:00"
+  },
+  {
+   "title": "AI is becoming a disaster for the climate",
+   "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+   "source": "Hacker News",
+   "date": "2026-11-22T12:19:46Z"
+  },
+  {
+   "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+   "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+   "source": "MarkTechPost",
+   "date": "2026-11-22T10:36:17+00:00"
+  },
+  {
+   "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+   "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+   "source": "MarkTechPost",
+   "date": "2026-11-22T10:03:54+00:00"
+  },
+  {
+   "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+   "url": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Hacker News",
+   "date": "2026-11-22T09:57:01Z"
+  },
+  {
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "source": "Hacker News",
+   "date": "2026-11-22T08:57:34Z"
+  },
+  {
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge AI",
+   "date": "2026-11-22T08:00:00-05:00"
+  },
+  {
+   "title": "AI Supply Chain Security: What Canary Tokens Found",
+   "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+   "source": "Hacker News",
+   "date": "2026-11-22T05:11:43Z"
+  },
+  {
+   "title": "Together.ai: Prompt Leakage for Requests",
+   "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+   "source": "Hacker News",
+   "date": "2026-11-22T03:07:27Z"
+  },
+  {
+   "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+   "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+   "source": "Hacker News",
+   "date": "2026-11-22T03:06:35Z"
+  },
+  {
    "title": "Data Processing Incidents on Inference Providers",
    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
    "source": "Hacker News",
    "date": "2026-11-22T02:14:14Z"
+  },
+  {
+   "title": "The Mythology of Conscious AI",
+   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+   "source": "Hacker News",
+   "date": "2026-11-22T02:10:02Z"
   },
   {
    "title": "Meta ads is now available in AWS Quick",
@@ -17,6 +95,12 @@
    "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
    "source": "MarkTechPost",
    "date": "2026-11-22T01:51:43+00:00"
+  },
+  {
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "source": "OpenAI",
+   "date": "2026-11-22T00:00:00+00:00"
   },
   {
    "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -349,12 +433,6 @@
    "date": "2026-11-19T22:20:23+00:00"
   },
   {
-   "title": "Meta’s new Muse Charm device may cost $300",
-   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-19T21:58:06+00:00"
-  },
-  {
    "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
    "url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
    "source": "MarkTechPost",
@@ -367,52 +445,16 @@
    "date": "2026-11-19T20:00:15+00:00"
   },
   {
-   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-   "source": "Hacker News",
-   "date": "2026-11-19T18:47:16Z"
-  },
-  {
-   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
-   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
-   "source": "Hacker News",
-   "date": "2026-11-19T18:42:13Z"
-  },
-  {
-   "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-   "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-   "source": "MarkTechPost",
-   "date": "2026-11-19T18:13:21+00:00"
-  },
-  {
    "title": "Introducing Tool Retrieval in the Gemini API",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
    "source": "Google AI",
    "date": "2026-11-19T18:00:00+00:00"
   },
   {
-   "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-   "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-   "source": "MarkTechPost",
-   "date": "2026-11-19T17:47:00+00:00"
-  },
-  {
-   "title": "AI came for the coders. Understanding why tells us who's next",
-   "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-   "source": "Hacker News",
-   "date": "2026-11-19T17:43:38Z"
-  },
-  {
    "title": "Apple is hiring engineers to build its own AI agent",
    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
    "source": "The Verge AI",
    "date": "2026-11-19T17:31:41-05:00"
-  },
-  {
-   "title": "Anthropic’s Nasdaq debut",
-   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-   "source": "Hacker News",
-   "date": "2026-11-19T17:02:40Z"
   },
   {
    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -427,58 +469,16 @@
    "date": "2026-11-19T17:00:00+00:00"
   },
   {
-   "title": "A brief history of Nvidia’s recent stock fluctuations",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-   "source": "The Verge AI",
-   "date": "2026-11-19T16:59:35-05:00"
-  },
-  {
-   "title": "Chrome AI features wasting much bandwidth",
-   "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-   "source": "Hacker News",
-   "date": "2026-11-19T16:54:25Z"
-  },
-  {
-   "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
-   "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
-   "source": "Hacker News",
-   "date": "2026-11-19T16:45:50Z"
-  },
-  {
-   "title": "Fuck Your AI Safeguards",
-   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-   "source": "Hacker News",
-   "date": "2026-11-19T16:30:18Z"
-  },
-  {
-   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-   "url": "https://thedataexchange.media/pete-warden-moonshine/",
-   "source": "Hacker News",
-   "date": "2026-11-19T15:38:12Z"
-  },
-  {
-   "title": "Meta’s Muse Charm might cost $300",
-   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-   "source": "The Verge AI",
-   "date": "2026-11-19T15:22:17-05:00"
-  },
-  {
-   "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-   "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-   "source": "Hacker News",
-   "date": "2026-11-19T15:16:02Z"
-  },
-  {
    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
    "source": "NVIDIA Blog",
    "date": "2026-11-19T14:00:12+00:00"
   },
   {
-   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-   "url": "https://foolscap.works/",
-   "source": "Hacker News",
-   "date": "2026-11-19T13:21:20Z"
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "source": "OpenAI",
+   "date": "2026-11-19T08:00:00+00:00"
   }
  ],
  "papers": [
@@ -555,5 +555,5 @@
    "date": "2026-11-21T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-22T06:41:31.818623+00:00"
+ "updated": "2026-11-22T19:32:53.777641+00:00"
 }
