@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "id": "u1ozwejEwBo",
+   "title": "Believe it or not, this ISN’T AI",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-23T21:09:34+00:00"
+  },
+  {
+   "id": "w-ltt0Np2cY",
+   "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+   "channel": "OpenAI",
+   "date": "2026-11-23T20:03:11+00:00"
+  },
+  {
+   "id": "MpsO8Ds8uyo",
+   "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+   "channel": "OpenAI",
+   "date": "2026-11-23T20:02:15+00:00"
+  },
+  {
+   "id": "gAmjBqXNoFI",
+   "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+   "channel": "OpenAI",
+   "date": "2026-11-23T15:23:23+00:00"
+  },
+  {
+   "id": "PXKvR8ta22Q",
+   "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+   "channel": "OpenAI",
+   "date": "2026-11-23T15:21:09+00:00"
+  },
+  {
+   "id": "1jPdehG3Hms",
+   "title": "Claude AI Solved The Secret Of Black Holes",
+   "channel": "Two Minute Papers",
+   "date": "2026-11-23T07:37:52+00:00"
+  },
+  {
    "id": "8RNSJ6Ud4nY",
    "title": "Google Cooked With This New Model!",
    "channel": "Matt Wolfe",
@@ -23,36 +59,6 @@
    "title": "What else could you use this for?",
    "channel": "Matt Wolfe",
    "date": "2026-11-21T03:42:44+00:00"
-  },
-  {
-   "id": "mX7wHNnsghs",
-   "title": "How to claim your business in ChatGPT with Shopify",
-   "channel": "OpenAI",
-   "date": "2026-11-20T20:48:27+00:00"
-  },
-  {
-   "id": "wqNIzUmNt9M",
-   "title": "AI News: This Is The Make or Break Week!!",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-20T19:00:16+00:00"
-  },
-  {
-   "id": "X19Q12hmRjY",
-   "title": "An underrated way to use ChatGPT: Finding a doctor",
-   "channel": "OpenAI",
-   "date": "2026-11-20T17:22:23+00:00"
-  },
-  {
-   "id": "WGvsk0LIveU",
-   "title": "3 Tips to Save Money With ChatGPT",
-   "channel": "OpenAI",
-   "date": "2026-11-20T16:00:17+00:00"
-  },
-  {
-   "id": "OSHSopaYjTw",
-   "title": "Create and Share a Dashboard in ChatGPT",
-   "channel": "OpenAI",
-   "date": "2026-11-20T06:07:50+00:00"
   },
   {
    "id": "sof3vW4mHTs",
@@ -119,12 +125,6 @@
    "title": "AI Can Do Everything…Except This",
    "channel": "Two Minute Papers",
    "date": "2026-11-14T08:40:55+00:00"
-  },
-  {
-   "id": "gPNiuyYirfw",
-   "title": "DeepMind’s AI Just Did The Impossible",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-12T13:41:41+00:00"
   },
   {
    "id": "uND6iY2qp_c",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-23T07:30:10.930478+00:00"
+ "updated": "2026-11-23T23:50:22.873798+00:00"
 }
