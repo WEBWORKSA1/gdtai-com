@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-23T01:25:53+00:00"
+  },
+  {
+   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+   "url": "https://0rwx.com/",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:53:00Z"
+  },
+  {
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:12:10Z"
+  },
+  {
+   "title": "Do Not Accept",
+   "url": "https://donotaccept.ai/",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:02:20Z"
+  },
+  {
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-22T21:14:07+00:00"
+  },
+  {
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "source": "Hacker News",
+   "date": "2026-11-22T21:01:16Z"
+  },
+  {
    "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
    "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
    "source": "MarkTechPost",
@@ -11,6 +47,24 @@
    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
    "source": "TechCrunch AI",
    "date": "2026-11-22T18:08:43+00:00"
+  },
+  {
+   "title": "Harvard CS 2881R AI Safety",
+   "url": "https://boazbk.github.io/mltheoryseminar/",
+   "source": "Hacker News",
+   "date": "2026-11-22T18:01:54Z"
+  },
+  {
+   "title": "We haven’t seen the last of the major tech outages",
+   "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+   "source": "The Verge AI",
+   "date": "2026-11-22T17:48:02-05:00"
+  },
+  {
+   "title": "Ask HN: Are the trades a safe career transition?",
+   "url": "https://news.ycombinator.com/item?id=50600771",
+   "source": "Hacker News",
+   "date": "2026-11-22T15:52:33Z"
   },
   {
    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -367,18 +421,6 @@
    "date": "2026-11-20T07:30:47-05:00"
   },
   {
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-20T00:56:01+00:00"
-  },
-  {
-   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-20T00:43:50+00:00"
-  },
-  {
    "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
    "source": "AWS ML Blog",
@@ -421,12 +463,6 @@
    "date": "2026-11-19T23:02:16+00:00"
   },
   {
-   "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-   "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-   "source": "Hacker News",
-   "date": "2026-11-19T22:56:59Z"
-  },
-  {
    "title": "How the BMW Group governs hundreds of agents across thousands of developers",
    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
    "source": "AWS ML Blog",
@@ -443,117 +479,225 @@
    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
    "source": "NVIDIA Blog",
    "date": "2026-11-19T20:00:15+00:00"
-  },
-  {
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "source": "Google AI",
-   "date": "2026-11-19T18:00:00+00:00"
-  },
-  {
-   "title": "Apple is hiring engineers to build its own AI agent",
-   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-   "source": "The Verge AI",
-   "date": "2026-11-19T17:31:41-05:00"
-  },
-  {
-   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-19T17:00:35+00:00"
-  },
-  {
-   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-   "source": "Google AI",
-   "date": "2026-11-19T17:00:00+00:00"
-  },
-  {
-   "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-   "source": "NVIDIA Blog",
-   "date": "2026-11-19T14:00:12+00:00"
-  },
-  {
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "source": "OpenAI",
-   "date": "2026-11-19T08:00:00+00:00"
   }
  ],
  "papers": [
   {
-   "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
-   "url": "https://arxiv.org/abs/2611.24999",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+   "url": "https://arxiv.org/abs/2611.26663",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
-   "url": "https://arxiv.org/abs/2611.25000",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+   "url": "https://arxiv.org/abs/2611.26717",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
-   "url": "https://arxiv.org/abs/2611.25001",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+   "url": "https://arxiv.org/abs/2611.26722",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "A Model of Diverse Sampling from Language Models",
-   "url": "https://arxiv.org/abs/2611.25003",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+   "url": "https://arxiv.org/abs/2611.26782",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
-   "url": "https://arxiv.org/abs/2611.25004",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+   "url": "https://arxiv.org/abs/2611.26794",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Near-Quadratic Sample Compression for All VC Classes",
-   "url": "https://arxiv.org/abs/2611.25011",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+   "url": "https://arxiv.org/abs/2611.26797",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
-   "url": "https://arxiv.org/abs/2611.25100",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+   "url": "https://arxiv.org/abs/2611.26870",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
-   "url": "https://arxiv.org/abs/2611.25108",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+   "url": "https://arxiv.org/abs/2611.26903",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
-   "url": "https://arxiv.org/abs/2611.25114",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
+   "url": "https://arxiv.org/abs/2611.26906",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Auditing Learned Dynamics in Weather Models",
-   "url": "https://arxiv.org/abs/2611.25119",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
+   "url": "https://arxiv.org/abs/2611.26910",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Temporal Extrapolation of Elastic Seismic Wave Propagation in Layered Media Using Neural Operators",
-   "url": "https://arxiv.org/abs/2611.25130",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
+   "url": "https://arxiv.org/abs/2611.26912",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
   },
   {
-   "title": "Rate-distortion Assessment for Hierarchical Content Summarization",
-   "url": "https://arxiv.org/abs/2611.25151",
+   "title": "Self-similar Organization of Information in Language",
+   "url": "https://arxiv.org/abs/2611.26935",
+   "source": "arXiv cs.AI",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+   "url": "https://arxiv.org/abs/2611.26747",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
+   "url": "https://arxiv.org/abs/2611.26756",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL",
+   "url": "https://arxiv.org/abs/2611.26775",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+   "url": "https://arxiv.org/abs/2611.26776",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+   "url": "https://arxiv.org/abs/2611.26806",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Search From the Start: Search-Native Pretraining for Language Models",
+   "url": "https://arxiv.org/abs/2611.26809",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Neural Geometry as a Learning Signal",
+   "url": "https://arxiv.org/abs/2611.26832",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
+   "url": "https://arxiv.org/abs/2611.26833",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models",
+   "url": "https://arxiv.org/abs/2611.26835",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Cross-Linguistic Distinctive-Feature Constraints on Segmental Triphones: Evidence for Contrastive Dispersion",
+   "url": "https://arxiv.org/abs/2611.26837",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Weight-Space Programming Writes In-Context Learning and Matches Fine-Tuning in Language Models",
+   "url": "https://arxiv.org/abs/2611.26841",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
+   "url": "https://arxiv.org/abs/2611.26863",
+   "source": "arXiv cs.CL",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "On the loss landscape of the linear neural network: beyond critical points",
+   "url": "https://arxiv.org/abs/2611.26671",
    "source": "arXiv cs.LG",
-   "date": "2026-11-21T00:00:00-05:00"
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
+   "url": "https://arxiv.org/abs/2611.26711",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Cross-Attack Robust Aggregation for Federated Learning",
+   "url": "https://arxiv.org/abs/2611.26731",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+   "url": "https://arxiv.org/abs/2611.26752",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Who Should Verify? Reviewer Selection with Partial Information and Outcome Audits",
+   "url": "https://arxiv.org/abs/2611.26770",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+   "url": "https://arxiv.org/abs/2611.26803",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+   "url": "https://arxiv.org/abs/2611.26805",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "NitroGen: Observations on the Action Dynamics, Visual Instruction Following, and Spatial Exploration",
+   "url": "https://arxiv.org/abs/2611.26807",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+   "url": "https://arxiv.org/abs/2611.26818",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
+   "url": "https://arxiv.org/abs/2611.26828",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+   "url": "https://arxiv.org/abs/2611.26847",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
+  },
+  {
+   "title": "Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series",
+   "url": "https://arxiv.org/abs/2611.26856",
+   "source": "arXiv cs.LG",
+   "date": "2026-11-23T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-22T19:32:53.777641+00:00"
+ "updated": "2026-11-23T07:30:10.930478+00:00"
 }

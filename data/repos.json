@@ -3,143 +3,143 @@
   {
    "name": "ccch1mneyyy/dsh-Go",
    "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "stars": 30136,
+   "stars": 30407,
    "lang": "Dart",
    "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
   },
   {
    "name": "wangzan101/Mika",
    "url": "https://github.com/wangzan101/Mika",
-   "stars": 9618,
+   "stars": 9698,
    "lang": "Kotlin",
    "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you."
   },
   {
    "name": "mdiri-ai/SoduWork",
    "url": "https://github.com/mdiri-ai/SoduWork",
-   "stars": 6809,
+   "stars": 6853,
    "lang": "JavaScript",
    "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
   },
   {
    "name": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 6280,
+   "stars": 6338,
    "lang": "TypeScript",
    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
   },
   {
    "name": "modelflare-ai/AnyModelBot",
    "url": "https://github.com/modelflare-ai/AnyModelBot",
-   "stars": 4972,
+   "stars": 4979,
    "lang": "Python",
    "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. "
   },
   {
    "name": "expo/exact",
    "url": "https://github.com/expo/exact",
-   "stars": 4910,
+   "stars": 4928,
    "lang": "Rust",
    "desc": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them."
   },
   {
    "name": "bookwjitchieni1986/blender-ai-mcp-addon",
    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-   "stars": 2744,
+   "stars": 2758,
    "lang": null,
    "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti"
   },
   {
    "name": "N1nEmAn/sapper-v2",
    "url": "https://github.com/N1nEmAn/sapper-v2",
-   "stars": 2552,
+   "stars": 2564,
    "lang": "Python",
    "desc": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Founda"
   },
   {
+   "name": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "stars": 2323,
+   "lang": "Rust",
+   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+  },
+  {
    "name": "Sandflow-ai/sand3d",
    "url": "https://github.com/Sandflow-ai/sand3d",
-   "stars": 2231,
+   "stars": 2235,
    "lang": "HTML",
    "desc": "3D modeling in Python, built for LLMs."
   },
   {
-   "name": "daveebbelaar/bama",
-   "url": "https://github.com/daveebbelaar/bama",
-   "stars": 1945,
-   "lang": "Swift",
-   "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI."
-  },
-  {
-   "name": "agentes-chat/agentes-chat",
-   "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 1941,
-   "lang": "TypeScript",
-   "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and "
-  },
-  {
    "name": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "stars": 1925,
+   "stars": 2004,
    "lang": "Python",
    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
   },
   {
-   "name": "yjid/kensaku",
-   "url": "https://github.com/yjid/kensaku",
-   "stars": 1901,
-   "lang": "Rust",
-   "desc": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access."
+   "name": "agentes-chat/agentes-chat",
+   "url": "https://github.com/agentes-chat/agentes-chat",
+   "stars": 1963,
+   "lang": "TypeScript",
+   "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and "
   },
   {
    "name": "JosssphZhou/poki",
    "url": "https://github.com/JosssphZhou/poki",
-   "stars": 1830,
+   "stars": 1864,
    "lang": "Swift",
    "desc": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account."
   },
   {
    "name": "voyager-so/vork",
    "url": "https://github.com/voyager-so/vork",
-   "stars": 1687,
+   "stars": 1692,
    "lang": "Rust",
    "desc": "Headless 3D and VFX engine for agents. Research preview."
   },
   {
    "name": "RunanywhereAI/trnrt",
    "url": "https://github.com/RunanywhereAI/trnrt",
-   "stars": 1658,
+   "stars": 1659,
    "lang": "Python",
    "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
   },
   {
-   "name": "EL4CTEO/fast-anything",
-   "url": "https://github.com/EL4CTEO/fast-anything",
-   "stars": 1647,
-   "lang": "Rust",
-   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
-  },
-  {
    "name": "synchopate/llama-modchip",
    "url": "https://github.com/synchopate/llama-modchip",
-   "stars": 1403,
+   "stars": 1405,
    "lang": "Python",
    "desc": "Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0."
   },
   {
    "name": "emanuele-em/kanzo",
    "url": "https://github.com/emanuele-em/kanzo",
-   "stars": 1314,
+   "stars": 1319,
    "lang": "Rust",
    "desc": "Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup."
   },
   {
+   "name": "Minglink/dsh-jailbreak-workflow",
+   "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+   "stars": 1218,
+   "lang": "TypeScript",
+   "desc": "Visual soft-workflow plugin for DeepSeek Harness (dsh-workflow-lite 0.11.0): canvas-to-plan-prompt engine paired with Minglink/dsh-workflows for LLM red-teaming & safety research."
+  },
+  {
    "name": "kubai087/kubai-icons",
    "url": "https://github.com/kubai087/kubai-icons",
-   "stars": 1159,
+   "stars": 1170,
    "lang": "JavaScript",
    "desc": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse th"
+  },
+  {
+   "name": "alexeyw/lot-map",
+   "url": "https://github.com/alexeyw/lot-map",
+   "stars": 1129,
+   "lang": "TypeScript",
+   "desc": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages."
   }
  ],
- "updated": "2026-11-22T19:32:53.777641+00:00"
+ "updated": "2026-11-23T07:30:10.930478+00:00"
 }
