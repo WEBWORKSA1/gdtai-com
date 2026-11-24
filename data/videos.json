@@ -1,34 +1,46 @@
 {
  "items": [
   {
-   "id": "asUuxCqj0GE",
-   "title": "Waiting for a better price on that gift? Use ChatGPT.",
+   "id": "1u0hTd86_HU",
+   "title": "Experiment with SVG & 3D Design with the Codex Plugin",
    "channel": "OpenAI",
-   "date": "2026-11-24T01:36:38+00:00"
+   "date": "2026-11-24T21:32:42+00:00"
+  },
+  {
+   "id": "PQYURWk9-w0",
+   "title": "This helmet tells you when to turn ⮑",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-24T20:11:42+00:00"
+  },
+  {
+   "id": "p8lvQQebvpg",
+   "title": "How to Search for Exoplanets",
+   "channel": "OpenAI",
+   "date": "2026-11-24T20:00:45+00:00"
+  },
+  {
+   "id": "K8rdrWQRd20",
+   "title": "The brain helped us build AI. Now AI is explaining the brain.",
+   "channel": "Google DeepMind",
+   "date": "2026-11-24T17:51:08+00:00"
+  },
+  {
+   "id": "2DUJ2whBJRM",
+   "title": "Make sense of your day | with ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-24T17:14:03+00:00"
+  },
+  {
+   "id": "4MFBNFyBmQg",
+   "title": "Make a day of it | with ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-24T17:14:01+00:00"
   },
   {
    "id": "u1ozwejEwBo",
-   "title": "Believe it or not, this ISN’T AI",
+   "title": "This robot face is NOT AI!",
    "channel": "Matt Wolfe",
    "date": "2026-11-23T21:09:34+00:00"
-  },
-  {
-   "id": "w-ltt0Np2cY",
-   "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
-   "channel": "OpenAI",
-   "date": "2026-11-23T20:03:11+00:00"
-  },
-  {
-   "id": "MpsO8Ds8uyo",
-   "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
-   "channel": "OpenAI",
-   "date": "2026-11-23T20:02:15+00:00"
-  },
-  {
-   "id": "gAmjBqXNoFI",
-   "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-   "channel": "OpenAI",
-   "date": "2026-11-23T15:23:23+00:00"
   },
   {
    "id": "1jPdehG3Hms",
@@ -44,7 +56,7 @@
   },
   {
    "id": "zqzk43bSdDI",
-   "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
    "channel": "3Blue1Brown",
    "date": "2026-11-22T02:02:12+00:00"
   },
@@ -53,12 +65,6 @@
    "title": "They built cyborg cockroaches with built-in AI...",
    "channel": "Matt Wolfe",
    "date": "2026-11-21T21:25:07+00:00"
-  },
-  {
-   "id": "7_pMINxEEPU",
-   "title": "What else could you use this for?",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-21T03:42:44+00:00"
   },
   {
    "id": "sof3vW4mHTs",
@@ -74,7 +80,7 @@
   },
   {
    "id": "FORdPIWOH5k",
-   "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+   "title": "Is Gemini our path to AGI?",
    "channel": "Google DeepMind",
    "date": "2026-11-19T19:58:06+00:00"
   },
@@ -125,12 +131,6 @@
    "title": "AI Can Do Everything…Except This",
    "channel": "Two Minute Papers",
    "date": "2026-11-14T08:40:55+00:00"
-  },
-  {
-   "id": "uND6iY2qp_c",
-   "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
-   "channel": "Google DeepMind",
-   "date": "2026-11-11T18:00:31+00:00"
   },
   {
    "id": "583ThJIqQ7k",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-24T09:49:54.880354+00:00"
+ "updated": "2026-11-24T22:22:29.112661+00:00"
 }
