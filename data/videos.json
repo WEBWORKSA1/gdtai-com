@@ -1,6 +1,12 @@
 {
  "items": [
   {
+   "id": "asUuxCqj0GE",
+   "title": "Waiting for a better price on that gift? Use ChatGPT.",
+   "channel": "OpenAI",
+   "date": "2026-11-24T01:36:38+00:00"
+  },
+  {
    "id": "u1ozwejEwBo",
    "title": "Believe it or not, this ISN’T AI",
    "channel": "Matt Wolfe",
@@ -23,12 +29,6 @@
    "title": "How Franklin Templeton uses AI for investment research | OpenAI",
    "channel": "OpenAI",
    "date": "2026-11-23T15:23:23+00:00"
-  },
-  {
-   "id": "PXKvR8ta22Q",
-   "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-   "channel": "OpenAI",
-   "date": "2026-11-23T15:21:09+00:00"
   },
   {
    "id": "1jPdehG3Hms",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-23T23:50:22.873798+00:00"
+ "updated": "2026-11-24T09:49:54.880354+00:00"
 }
