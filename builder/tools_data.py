@@ -163,3 +163,11 @@ T = [
     ("Ollama", "https://ollama.com", "models", "Free", "Run open models locally on your own computer with one command.", "Private local AI", ["local", "open-models"]),
     ("LM Studio", "https://lmstudio.ai", "models", "Free", "Desktop app to download and chat with local models.", "Local AI with a GUI", ["local", "desktop"]),
 ]
+
+# User-submitted listings (via submit-tool.html). Same tuple format as T.
+# Text is taken only from the maker's submission; URLs must be https://.
+# Outbound links to these tools are rendered with rel="nofollow ugc noopener".
+SUBMITTED = [
+    ("Orkas", "https://orkas.ai", "automation", "Freemium", "Open-source, local-first desktop app that turns project files into reports and presentations with a coordinated AI team, using managed models or your own supported provider.", "Reports & presentations from project files", ["open-source", "local-first", "reports"]),
+    ("NISTYLEZ", "https://nistylez.com", "business", "Freemium", "AI assistant, AI content creation and AI marketing for salons and beauty professionals, plus a free website and booking calendar with zero commission.", "Salons & beauty professionals", ["salons", "booking", "marketing"]),
+]

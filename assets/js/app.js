@@ -164,7 +164,7 @@
           row("Best for", function (t) { return esc(t.best); }) +
           row("What it does", function (t) { return esc(t.desc); }) +
           row("Tags", function (t) { return (t.tags || []).map(function (x) { return '<span class="tag">#' + esc(x) + "</span>"; }).join(" "); }) +
-          row("Website", function (t) { return '<a href="' + esc(t.url) + '" target="_blank" rel="noopener nofollow">' + esc(t.domain) + " ↗</a>"; }) +
+          row("Website", function (t) { return '<a href="' + esc(t.url) + '" target="_blank" rel="' + (t.ugc ? "nofollow ugc noopener" : "noopener nofollow") + '">' + esc(t.domain) + " ↗</a>"; }) +
           "</table>";
         history.replaceState(null, "", "?ids=" + pick.map(function (t) { return t.slug; }).join(","));
       });

@@ -16,7 +16,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "builder"))
 
-from tools_data import CATEGORIES, T  # noqa: E402
+from tools_data import CATEGORIES, T, SUBMITTED  # noqa: E402
 from content_data import GLOSSARY, PROMPTS  # noqa: E402
 
 SITE_NAME = "GDTai"
@@ -69,6 +69,11 @@ TOOLS = []
 for (name, url, cat, price, desc, best, tags) in T:
     TOOLS.append({"name": name, "slug": slugify(name), "url": url, "cat": cat, "price": price,
                   "desc": desc, "best": best, "tags": tags, "domain": domain(url)})
+for (name, url, cat, price, desc, best, tags) in SUBMITTED:
+    if not url.startswith("https://") or cat not in CAT or any(t["slug"] == slugify(name) for t in TOOLS):
+        raise SystemExit(f"Rejected submitted tool {name!r}: needs an https:// URL, a known category and a unique slug")
+    TOOLS.append({"name": name, "slug": slugify(name), "url": url, "cat": cat, "price": price,
+                  "desc": desc, "best": best, "tags": tags, "domain": domain(url), "ugc": True})
 BY_CAT = {}
 for t in TOOLS:
     BY_CAT.setdefault(t["cat"], []).append(t)
@@ -255,6 +260,10 @@ def crumbs(root, items):
 def logo_img(t, size=40):
     return (f'<img class="tlogo" src="https://www.google.com/s2/favicons?domain={t["domain"]}&sz=64" alt="" width="{size}" height="{size}" '
             f'loading="lazy" data-letter="{e(t["name"][0])}">')
+
+
+def out_rel(t):
+    return "nofollow ugc noopener" if t.get("ugc") else "noopener nofollow"
 
 
 def price_cls(p):
@@ -498,12 +507,12 @@ def build_tool_pages():
 <div class="tool-head">{logo_img(t, 64)}<div><h1>{e(t['name'])}</h1>
 <p class="sub">{e(t['desc'])}</p>
 <div class="tool-meta"><span class="badge {price_cls(t['price'])}">{e(t['price'])}</span><a class="tc-cat" href="{r}category/{c['slug']}.html">{c['icon']} {e(c['name'])}</a><span class="muted">{e(t['domain'])}</span></div></div>
-<div class="tool-actions"><a class="btn btn-grad" href="{e(t['url'])}" target="_blank" rel="noopener nofollow" data-out="{t['slug']}">Visit {e(t['name'])} ↗</a>
+<div class="tool-actions"><a class="btn btn-grad" href="{e(t['url'])}" target="_blank" rel="{out_rel(t)}" data-out="{t['slug']}">Visit {e(t['name'])} ↗</a>
 <button class="btn btn-ghost save" data-save="{t['slug']}">♡ Save</button></div></div></div></section>
 <section class="section tight"><div class="wrap content-grid"><article class="prose">
 <h2>Overview</h2><p>{e(t['name'])} is listed in our <a href="{r}category/{c['slug']}.html">{e(c['name'])}</a> category. {e(t['desc'])} In our assessment it is a strong fit for <strong>{e(t['best'].lower())}</strong>.</p>
 <h2>Common use cases</h2><ul>{uses}</ul>
-<h2>Quick facts</h2><table class="facts"><tr><th>Pricing model</th><td>{e(t['price'])}</td></tr><tr><th>Category</th><td>{e(c['name'])}</td></tr><tr><th>Best for</th><td>{e(t['best'])}</td></tr><tr><th>Website</th><td><a href="{e(t['url'])}" target="_blank" rel="noopener nofollow">{e(t['domain'])}</a></td></tr><tr><th>Tags</th><td>{tags}</td></tr></table>
+<h2>Quick facts</h2><table class="facts"><tr><th>Pricing model</th><td>{e(t['price'])}</td></tr><tr><th>Category</th><td>{e(c['name'])}</td></tr><tr><th>Best for</th><td>{e(t['best'])}</td></tr><tr><th>Website</th><td><a href="{e(t['url'])}" target="_blank" rel="{out_rel(t)}">{e(t['domain'])}</a></td></tr><tr><th>Tags</th><td>{tags}</td></tr></table>
 {ad()}
 <h2>How to evaluate {e(t['name'])}</h2>
 <p>Run one real task from your own work through {e(t['name'])} and two alternatives below. Score each on output quality, speed, control and consistency, then weigh the result against the plan price and the time you spend editing. Our <a href="{r}guides/how-to-choose-ai-tools.html">7-step evaluation framework</a> walks through this in detail, and the <a href="{r}free-tools/roi-calculator.html">ROI calculator</a> shows whether a paid plan pays for itself.</p>
@@ -1018,7 +1027,7 @@ def build_static_files():
     os.makedirs(os.path.join(ROOT, "assets", "data"), exist_ok=True)
     with open(os.path.join(ROOT, "assets", "data", "tools.json"), "w", encoding="utf-8") as f:
         json.dump([{"slug": t["slug"], "name": t["name"], "cat": t["cat"], "catName": CAT[t["cat"]]["name"], "price": t["price"],
-                    "desc": t["desc"], "best": t["best"], "tags": t["tags"], "url": t["url"], "domain": t["domain"]} for t in TOOLS] +
+                    "desc": t["desc"], "best": t["best"], "tags": t["tags"], "url": t["url"], "domain": t["domain"], **({"ugc": True} if t.get("ugc") else {})} for t in TOOLS] +
                   [{"slug": "guide:" + g["slug"], "name": g["title"], "cat": "guide", "catName": "Guide", "desc": g["description"]} for g in GUIDES],
                   f, ensure_ascii=False)
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
