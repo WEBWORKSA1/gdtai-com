@@ -1,6 +1,48 @@
 {
  "items": [
   {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T20:03:27+00:00"
+  },
+  {
+   "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+   "url": "https://danprice.ai/blog/opus-symphony",
+   "source": "Hacker News",
+   "date": "2026-11-25T19:57:08Z"
+  },
+  {
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T19:54:57+00:00"
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T19:44:24+00:00"
+  },
+  {
+   "title": "Where scientists draw the line on AI agents",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "source": "Hugging Face",
+   "date": "2026-11-25T18:52:55+00:00"
+  },
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T18:11:46+00:00"
+  },
+  {
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T17:35:58+00:00"
+  },
+  {
    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
    "source": "TechCrunch AI",
@@ -17,6 +59,12 @@
    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
    "source": "TechCrunch AI",
    "date": "2026-11-25T13:00:00+00:00"
+  },
+  {
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge AI",
+   "date": "2026-11-25T12:44:51-05:00"
   },
   {
    "title": "Nothing offers a full look at its AI earbuds and charging case",
@@ -73,6 +121,12 @@
    "date": "2026-11-25T00:12:02+00:00"
   },
   {
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "source": "Hugging Face",
+   "date": "2026-11-25T00:00:00+00:00"
+  },
+  {
    "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
    "url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
    "source": "MarkTechPost",
@@ -97,18 +151,6 @@
    "date": "2026-11-24T21:33:29+00:00"
   },
   {
-   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T21:32:38+00:00"
-  },
-  {
-   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T21:19:52+00:00"
-  },
-  {
    "title": "Working with AI",
    "url": "https://www.anthropic.com/research/working-with-ai",
    "source": "Hacker News",
@@ -119,24 +161,6 @@
    "url": "https://news.ycombinator.com/item?id=50634426",
    "source": "Hacker News",
    "date": "2026-11-24T20:44:15Z"
-  },
-  {
-   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T18:30:42+00:00"
-  },
-  {
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T18:02:59+00:00"
-  },
-  {
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T17:00:00+00:00"
   },
   {
    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
@@ -283,18 +307,6 @@
    "date": "2026-11-23T17:25:12-05:00"
   },
   {
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "url": "https://huggingface.co/blog/allenai/robotrack",
-   "source": "Hugging Face",
-   "date": "2026-11-23T17:20:37+00:00"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-   "source": "The Verge AI",
-   "date": "2026-11-23T17:10:32-05:00"
-  },
-  {
    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
    "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
    "source": "NVIDIA Blog",
@@ -305,12 +317,6 @@
    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
    "source": "Google AI",
    "date": "2026-11-23T17:00:00+00:00"
-  },
-  {
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "source": "Google DeepMind",
-   "date": "2026-11-23T16:59:40+00:00"
   },
   {
    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
@@ -391,28 +397,10 @@
    "date": "2026-11-22T23:02:20Z"
   },
   {
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "source": "Hacker News",
-   "date": "2026-11-22T21:01:16Z"
-  },
-  {
-   "title": "Why Are We at the Mercy of the World's Weirdest Men?",
-   "url": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
-   "source": "Hacker News",
-   "date": "2026-11-22T20:04:56Z"
-  },
-  {
    "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
    "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
    "source": "MarkTechPost",
    "date": "2026-11-22T18:37:57+00:00"
-  },
-  {
-   "title": "Harvard CS 2881R AI Safety",
-   "url": "https://boazbk.github.io/mltheoryseminar/",
-   "source": "Hacker News",
-   "date": "2026-11-22T18:01:54Z"
   },
   {
    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
@@ -479,6 +467,18 @@
    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
    "source": "MIT Technology Review",
    "date": "2026-11-20T18:15:15+00:00"
+  },
+  {
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI",
+   "date": "2026-11-20T10:00:00+00:00"
+  },
+  {
+   "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+   "source": "AWS ML Blog",
+   "date": "2026-11-20T00:34:07+00:00"
   }
  ],
  "papers": [
@@ -699,5 +699,5 @@
    "date": "2026-11-25T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-25T17:00:28.688461+00:00"
+ "updated": "2026-11-25T21:38:22.316572+00:00"
 }

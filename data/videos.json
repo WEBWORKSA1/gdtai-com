@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "id": "A4UNP-axGHU",
+   "title": "How your dot can keep work moving while you’re away",
+   "channel": "OpenAI",
+   "date": "2026-11-25T18:21:11+00:00"
+  },
+  {
+   "id": "kfGYU_-SuaE",
+   "title": "School Day | Make a day do anything with ChatGPT (Official)",
+   "channel": "OpenAI",
+   "date": "2026-11-25T16:45:33+00:00"
+  },
+  {
    "id": "BWpsNrkt6Z4",
    "title": "Why Don't All Drones Do This??",
    "channel": "Matt Wolfe",
@@ -8,7 +20,7 @@
   },
   {
    "id": "hwKct_1ilEQ",
-   "title": "How to Set Up Finances in ChatGPT",
+   "title": "Finances in ChatGPT: A Beginner’s Guide",
    "channel": "OpenAI",
    "date": "2026-11-25T14:00:28+00:00"
   },
@@ -31,22 +43,10 @@
    "date": "2026-11-24T20:11:42+00:00"
   },
   {
-   "id": "p8lvQQebvpg",
-   "title": "How to Search for Exoplanets",
-   "channel": "OpenAI",
-   "date": "2026-11-24T20:00:45+00:00"
-  },
-  {
    "id": "K8rdrWQRd20",
    "title": "The brain helped us build AI. Now AI is explaining the brain.",
    "channel": "Google DeepMind",
    "date": "2026-11-24T17:51:08+00:00"
-  },
-  {
-   "id": "2DUJ2whBJRM",
-   "title": "Make sense of your day | with ChatGPT",
-   "channel": "OpenAI",
-   "date": "2026-11-24T17:14:03+00:00"
   },
   {
    "id": "u1ozwejEwBo",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-25T17:00:28.688461+00:00"
+ "updated": "2026-11-25T21:38:22.316572+00:00"
 }
