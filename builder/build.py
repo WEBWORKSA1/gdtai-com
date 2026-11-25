@@ -69,11 +69,12 @@ TOOLS = []
 for (name, url, cat, price, desc, best, tags) in T:
     TOOLS.append({"name": name, "slug": slugify(name), "url": url, "cat": cat, "price": price,
                   "desc": desc, "best": best, "tags": tags, "domain": domain(url)})
-for (name, url, cat, price, desc, best, tags) in SUBMITTED:
-    if not url.startswith("https://") or cat not in CAT or any(t["slug"] == slugify(name) for t in TOOLS):
-        raise SystemExit(f"Rejected submitted tool {name!r}: needs an https:// URL, a known category and a unique slug")
+for (name, url, cat, price, desc, best, tags, review) in SUBMITTED:
+    if not url.startswith("https://") or cat not in CAT or any(t["slug"] == slugify(name) for t in TOOLS) \
+            or not all(review.get(k) for k in ("reviewed", "fit", "summary")):
+        raise SystemExit(f"Rejected submitted tool {name!r}: needs an https:// URL, a known category, a unique slug and a completed review")
     TOOLS.append({"name": name, "slug": slugify(name), "url": url, "cat": cat, "price": price,
-                  "desc": desc, "best": best, "tags": tags, "domain": domain(url), "ugc": True})
+                  "desc": desc, "best": best, "tags": tags, "domain": domain(url), "ugc": True, "review": review})
 BY_CAT = {}
 for t in TOOLS:
     BY_CAT.setdefault(t["cat"], []).append(t)
@@ -124,7 +125,7 @@ def head(path, title, desc, root, schema=None, noindex=False, og_type="website")
     full = title if title.startswith(SITE_NAME) else f"{title} | {SITE_NAME}"
     ld = ""
     for s in (schema or []):
-        ld += '<script type="application/ld+json">' + json.dumps(s, ensure_ascii=False) + "</script>"
+        ld += '<script type="application/ld+json">' + json.dumps(s, ensure_ascii=False).replace("<", "\\u003c") + "</script>"
     robots = '<meta name="robots" content="noindex,follow">' if noindex else '<meta name="robots" content="index,follow,max-image-preview:large">'
     return f"""<!DOCTYPE html>
 <html lang="en" data-theme="auto">
@@ -266,6 +267,22 @@ def out_rel(t):
     return "nofollow ugc noopener" if t.get("ugc") else "noopener nofollow"
 
 
+def review_line(t):
+    rv = t.get("review")
+    if rv:
+        return f"In our assessment it is a good fit for <strong>{e(rv['fit'])}</strong>."
+    return f"We list it as best for <strong>{e(t['best'].lower())}</strong>."
+
+
+def review_block(t, r):
+    rv = t.get("review")
+    if not rv:
+        return ""
+    return (f'<h2>How we reviewed {e(t["name"])}</h2><p>{e(rv["summary"])}</p>'
+            f'<p class="small muted">Listing submitted by the maker and reviewed by GDTai on {e(fmt_date(rv["reviewed"]))} '
+            f'against our <a href="{r}about.html#editorial">editorial policy</a>.</p>')
+
+
 def price_cls(p):
     return {"Free": "p-free", "Freemium": "p-freemium", "Paid": "p-paid", "Free trial": "p-trial"}.get(p, "")
 
@@ -336,9 +353,9 @@ def build_home():
     home_faq = [
         ("What is GDTai?", "GDTai (Guide · Discover · Test AI) is an independent, self-updating hub where you can find and compare AI tools, read practical guides, use free AI utilities and follow the latest AI news and videos."),
         ("Is GDTai free to use?", "Yes. Browsing the directory, guides, prompt library and free utilities is completely free. The site is supported by advertising, sponsorships and reader donations."),
-        ("How do you choose which AI tools to list?", "We list tools that are live, clearly useful and transparent about pricing. Editorial picks are never sold; sponsored placements are always labelled. Read our <a href='about.html#editorial'>editorial policy</a>."),
+        ("How do you choose which AI tools to list?", "We list tools that are live, clearly useful and transparent about pricing. Tools submitted by their makers are reviewed against the same criteria before they are listed, and their pages say when and how we reviewed them. Editorial picks are never sold; sponsored placements are always labelled. Read our <a href='about.html#editorial'>editorial policy</a>."),
         ("Can you recommend the right AI tools for my business?", "Yes — use the free <a href='get-matched.html'>AI Stack Match</a>. Answer five quick questions and we will send a tailored shortlist and rollout plan."),
-        ("How often is the content updated?", "News, research papers, trending repositories and videos are refreshed automatically several times a day. The tool directory and guides are reviewed continuously."),
+        ("How often is the content updated?", "News, research papers, trending repositories and videos are refreshed automatically several times a day. The tool directory and guides are edited by hand: submitted tools are reviewed before they are listed, and reported errors are corrected."),
     ]
     faq_html, faq_ld = faq_block(home_faq)
     cats = "".join(f'<a class="cat-tile" href="{{r}}category/{c[0]}.html"><span class="ct-ico">{c[3]}</span><b>{e(c[1])}</b><small>{len(BY_CAT.get(c[0], []))} tools</small></a>' for c in CATEGORIES)
@@ -498,10 +515,10 @@ def build_tool_pages():
         ]
         faq_html, faq_ld = faq_block(qas)
         ld = {"@context": "https://schema.org", "@type": "SoftwareApplication", "name": t["name"], "url": t["url"],
-              "applicationCategory": c["name"], "operatingSystem": "Web", "description": t["desc"]}
+              "applicationCategory": c["name"], "operatingSystem": t.get("review", {}).get("os", "Web"), "description": t["desc"]}
 
         def body(r, t=t, c=c, alts=alts, cr=cr, faq_html=faq_html):
-            uses = "".join(f"<li>{e(u)}</li>" for u in USE_CASES.get(t["cat"], []))
+            uses = "".join(f"<li>{e(u)}</li>" for u in (t.get("review", {}).get("uses") or USE_CASES.get(t["cat"], [])))
             tags = "".join(f'<span class="tag">#{e(x)}</span>' for x in t["tags"])
             return f"""<section class="page-hero"><div class="wrap">{cr}
 <div class="tool-head">{logo_img(t, 64)}<div><h1>{e(t['name'])}</h1>
@@ -510,8 +527,8 @@ def build_tool_pages():
 <div class="tool-actions"><a class="btn btn-grad" href="{e(t['url'])}" target="_blank" rel="{out_rel(t)}" data-out="{t['slug']}">Visit {e(t['name'])} ↗</a>
 <button class="btn btn-ghost save" data-save="{t['slug']}">♡ Save</button></div></div></div></section>
 <section class="section tight"><div class="wrap content-grid"><article class="prose">
-<h2>Overview</h2><p>{e(t['name'])} is listed in our <a href="{r}category/{c['slug']}.html">{e(c['name'])}</a> category. {e(t['desc'])} In our assessment it is a strong fit for <strong>{e(t['best'].lower())}</strong>.</p>
-<h2>Common use cases</h2><ul>{uses}</ul>
+<h2>Overview</h2><p>{e(t['name'])} is listed in our <a href="{r}category/{c['slug']}.html">{e(c['name'])}</a> category. {e(t['desc'])} {review_line(t)}</p>
+{review_block(t, r)}<h2>Common use cases</h2><ul>{uses}</ul>
 <h2>Quick facts</h2><table class="facts"><tr><th>Pricing model</th><td>{e(t['price'])}</td></tr><tr><th>Category</th><td>{e(c['name'])}</td></tr><tr><th>Best for</th><td>{e(t['best'])}</td></tr><tr><th>Website</th><td><a href="{e(t['url'])}" target="_blank" rel="{out_rel(t)}">{e(t['domain'])}</a></td></tr><tr><th>Tags</th><td>{tags}</td></tr></table>
 {ad()}
 <h2>How to evaluate {e(t['name'])}</h2>
@@ -543,7 +560,7 @@ def build_categories():
         faq_html, faq_ld = faq_block(qas)
 
         def body(r, tools=tools, name=name, desc=desc, icon=icon, cr=cr, others=others, faq_html=faq_html):
-            return f"""<section class="page-hero"><div class="wrap">{cr}<h1>{icon} {e(name)}</h1><p class="sub">{e(desc)} {len(tools)} curated tools, reviewed for usefulness and pricing transparency.</p></div></section>
+            return f"""<section class="page-hero"><div class="wrap">{cr}<h1>{icon} {e(name)}</h1><p class="sub">{e(desc)} {len(tools)} curated tools with their pricing model; confirm current prices on each official site.</p></div></section>
 <section class="section tight"><div class="wrap">{ad()}<div class="tgrid">{"".join(tool_card(t, r) for t in tools)}</div>
 <div class="lead-inline"><div><h3>Want the best {e(name.lower())} tool for <em>your</em> workflow?</h3><p>Answer five questions and get a free personalised recommendation.</p></div><a class="btn btn-grad" href="{r}get-matched.html">Get matched free</a></div>
 <div class="narrow"><h2>FAQ</h2>{faq_html}</div>
@@ -931,6 +948,7 @@ def build_simple_pages():
 <li>Editor's picks are based on quality, value and reliability. They are never for sale.</li>
 <li>Paid placements are always labelled "Featured" or "Sponsored".</li>
 <li>Descriptions are written by us in our own words; we link to official sites for current pricing.</li>
+<li>Tools submitted by their makers are listed only after an editorial review against these criteria. Their pages show the review date and what we checked.</li>
 <li>Found an error? <a href="{r}contact.html">Tell us</a> and we will correct it quickly.</li></ul>
 <h2>How we stay free</h2><p>GDTai is funded by display advertising (Google AdSense), clearly labelled sponsorships, featured listings and <a href="{r}support.html">reader support</a>. This lets us keep every guide and utility free.</p>
 <h2>Self-updating by design</h2><p>Our news, research, trending repositories and video sections refresh automatically several times a day, so you always see what's new without waiting for a manual update.</p>

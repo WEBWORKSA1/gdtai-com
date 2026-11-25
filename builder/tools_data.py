@@ -164,10 +164,32 @@ T = [
     ("LM Studio", "https://lmstudio.ai", "models", "Free", "Desktop app to download and chat with local models.", "Local AI with a GUI", ["local", "desktop"]),
 ]
 
-# User-submitted listings (via submit-tool.html). Same tuple format as T.
-# Text is taken only from the maker's submission; URLs must be https://.
-# Outbound links to these tools are rendered with rel="nofollow ugc noopener".
+# User-submitted listings (via submit-tool.html). A submission is listed only
+# after an editorial review against the policy on about.html#editorial (live,
+# clearly useful, transparent about what it does and how it charges).
+# Fields: the same 7 as T, plus a review dict:
+#   reviewed  ISO date of the review
+#   fit       completes "In our assessment it is a good fit for ..."
+#   summary   how it was reviewed and what was found (plain text)
+#   os        operating systems for structured data
+#   uses      verified use cases (replace the category's generic list)
+# URLs must be https://. Outbound links get rel="nofollow ugc noopener".
 SUBMITTED = [
-    ("Orkas", "https://orkas.ai", "automation", "Freemium", "Open-source, local-first desktop app that turns project files into reports and presentations with a coordinated AI team, using managed models or your own supported provider.", "Reports & presentations from project files", ["open-source", "local-first", "reports"]),
-    ("NISTYLEZ", "https://nistylez.com", "business", "Freemium", "AI assistant, AI content creation and AI marketing for salons and beauty professionals, plus a free website and booking calendar with zero commission.", "Salons & beauty professionals", ["salons", "booking", "marketing"]),
+    ("Orkas", "https://orkas.ai", "automation", "Freemium",
+     "Open-source desktop app where a Commander agent coordinates specialist AI agents to produce research reports, Office documents and slide decks, using Orkas-hosted models or your own API keys.",
+     "Agent-made reports, documents & slide decks", ["open-source", "local-first", "multi-agent"],
+     {"reviewed": "2026-11-25",
+      "fit": "people who want a team of AI agents to produce research reports, Office documents and slide decks on their own computer, with the choice of Orkas-hosted models or their own API keys",
+      "summary": ("We read the open-source code (MIT licence) on GitHub and the official README, pricing page and terms. "
+                  "We did not install or run the desktop app, so we have not judged the quality of its output. "
+                  "The code includes a Commander that hands work to built-in specialist agents, among them PptMaker for slide decks, "
+                  "OfficeWorker for Word, Excel, PowerPoint and PDF files and DeepResearcher for research reports. "
+                  "Projects are stored in a local folder by default, and you can use Orkas-hosted models or your own keys for providers "
+                  "including OpenAI, Anthropic, Google Gemini and OpenRouter. "
+                  "Pricing is published: a free plan with 500 one-time bonus credits, and paid monthly plans that add credits, cloud sync and storage; "
+                  "calls made with your own keys do not use Orkas credits. "
+                  "Points to weigh: the terms name only an unnamed operating company in mainland China and are governed by Chinese law, "
+                  "and the built-in Orkas models and optional cloud sync run through Orkas servers."),
+      "os": "macOS, Windows",
+      "uses": ["Research reports", "Editable slide decks", "Word, Excel and PDF documents", "Scheduled recurring tasks"]}),
 ]
