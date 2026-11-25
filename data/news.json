@@ -1,6 +1,54 @@
 {
  "items": [
   {
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T15:41:43+00:00"
+  },
+  {
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T14:10:18+00:00"
+  },
+  {
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-25T13:00:00+00:00"
+  },
+  {
+   "title": "Nothing offers a full look at its AI earbuds and charging case",
+   "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+   "source": "The Verge AI",
+   "date": "2026-11-25T11:00:59-05:00"
+  },
+  {
+   "title": "An Indic Voice Agent with CUGA",
+   "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "source": "Hugging Face",
+   "date": "2026-11-25T10:22:09+00:00"
+  },
+  {
+   "title": "AI is straining America’s open records systems",
+   "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-25T10:00:00+00:00"
+  },
+  {
+   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+   "source": "The Verge AI",
+   "date": "2026-11-25T09:12:33-05:00"
+  },
+  {
+   "title": "Has vibe coding made open source the new normal for synths?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+   "source": "The Verge AI",
+   "date": "2026-11-25T08:00:00-05:00"
+  },
+  {
    "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
    "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
    "source": "MarkTechPost",
@@ -91,12 +139,6 @@
    "date": "2026-11-24T17:00:00+00:00"
   },
   {
-   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T16:46:00+00:00"
-  },
-  {
    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "url": "https://news.ycombinator.com/item?id=50630809",
    "source": "Hacker News",
@@ -119,18 +161,6 @@
    "url": "https://masondata.ai/",
    "source": "Hacker News",
    "date": "2026-11-24T16:11:52Z"
-  },
-  {
-   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T16:10:00+00:00"
-  },
-  {
-   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-   "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T16:02:37+00:00"
   },
   {
    "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -265,12 +295,6 @@
    "date": "2026-11-23T17:10:32-05:00"
   },
   {
-   "title": "Welcome to elite impunity, Jensen Huang",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-   "source": "The Verge AI",
-   "date": "2026-11-23T17:09:26-05:00"
-  },
-  {
    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
    "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
    "source": "NVIDIA Blog",
@@ -283,16 +307,10 @@
    "date": "2026-11-23T17:00:00+00:00"
   },
   {
-   "title": "AI data centers throw another wrench into chaotic UN climate talks",
-   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-   "source": "The Verge AI",
-   "date": "2026-11-23T16:09:37-05:00"
-  },
-  {
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-   "source": "The Verge AI",
-   "date": "2026-11-23T15:00:00-05:00"
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "Google DeepMind",
+   "date": "2026-11-23T16:59:40+00:00"
   },
   {
    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
@@ -397,34 +415,10 @@
    "date": "2026-11-22T18:01:54Z"
   },
   {
-   "title": "Ask HN: Are the trades a safe career transition?",
-   "url": "https://news.ycombinator.com/item?id=50600771",
-   "source": "Hacker News",
-   "date": "2026-11-22T15:52:33Z"
-  },
-  {
-   "title": "AI is becoming a disaster for the climate",
-   "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-   "source": "Hacker News",
-   "date": "2026-11-22T12:19:46Z"
-  },
-  {
    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
    "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
    "source": "MarkTechPost",
    "date": "2026-11-22T10:36:17+00:00"
-  },
-  {
-   "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-   "url": "https://simonwillison.net/2026/Nov/21/muru/",
-   "source": "Hacker News",
-   "date": "2026-11-22T09:57:01Z"
-  },
-  {
-   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-   "source": "Hacker News",
-   "date": "2026-11-22T08:57:34Z"
   },
   {
    "title": "Meta ads is now available in AWS Quick",
@@ -479,6 +473,12 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
    "source": "AWS ML Blog",
    "date": "2026-11-20T18:24:06+00:00"
+  },
+  {
+   "title": "The most misunderstood graph in AI just got a major update",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "date": "2026-11-20T18:15:15+00:00"
   }
  ],
  "papers": [
@@ -699,5 +699,5 @@
    "date": "2026-11-25T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-25T08:25:39.930997+00:00"
+ "updated": "2026-11-25T17:00:28.688461+00:00"
 }

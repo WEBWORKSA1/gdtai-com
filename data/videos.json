@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "id": "BWpsNrkt6Z4",
+   "title": "Why Don't All Drones Do This??",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-25T16:37:45+00:00"
+  },
+  {
+   "id": "hwKct_1ilEQ",
+   "title": "How to Set Up Finances in ChatGPT",
+   "channel": "OpenAI",
+   "date": "2026-11-25T14:00:28+00:00"
+  },
+  {
+   "id": "hwWlEuI359w",
+   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "channel": "Two Minute Papers",
+   "date": "2026-11-25T09:54:23+00:00"
+  },
+  {
    "id": "1u0hTd86_HU",
    "title": "Experiment with SVG & 3D Design with the Codex Plugin",
    "channel": "OpenAI",
@@ -31,12 +49,6 @@
    "date": "2026-11-24T17:14:03+00:00"
   },
   {
-   "id": "4MFBNFyBmQg",
-   "title": "Make a day of it | with ChatGPT",
-   "channel": "OpenAI",
-   "date": "2026-11-24T17:14:01+00:00"
-  },
-  {
    "id": "u1ozwejEwBo",
    "title": "We know who will REALLY be using this (Not AI)",
    "channel": "Matt Wolfe",
@@ -59,12 +71,6 @@
    "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
    "channel": "3Blue1Brown",
    "date": "2026-11-22T02:02:12+00:00"
-  },
-  {
-   "id": "GFxHjrYwoFk",
-   "title": "They built cyborg cockroaches with built-in AI...",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-21T21:25:07+00:00"
   },
   {
    "id": "sof3vW4mHTs",
@@ -125,12 +131,6 @@
    "title": "OpenAI's New Breakthrough Is... Utter Chaos",
    "channel": "Two Minute Papers",
    "date": "2026-11-17T12:46:24+00:00"
-  },
-  {
-   "id": "x7iwI6WfWS0",
-   "title": "AI Can Do Everything…Except This",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-14T08:40:55+00:00"
   },
   {
    "id": "583ThJIqQ7k",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-25T08:25:39.930997+00:00"
+ "updated": "2026-11-25T17:00:28.688461+00:00"
 }
