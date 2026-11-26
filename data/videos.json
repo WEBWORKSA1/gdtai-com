@@ -1,6 +1,12 @@
 {
  "items": [
   {
+   "id": "C6DENY3rgqg",
+   "title": "You had us at Deployed",
+   "channel": "OpenAI",
+   "date": "2026-11-25T23:50:43+00:00"
+  },
+  {
    "id": "A4UNP-axGHU",
    "title": "How your dot can keep work moving while you’re away",
    "channel": "OpenAI",
@@ -14,7 +20,7 @@
   },
   {
    "id": "BWpsNrkt6Z4",
-   "title": "Why Don't All Drones Do This??",
+   "title": "I've never seen a drone do this...",
    "channel": "Matt Wolfe",
    "date": "2026-11-25T16:37:45+00:00"
   },
@@ -31,12 +37,6 @@
    "date": "2026-11-25T09:54:23+00:00"
   },
   {
-   "id": "1u0hTd86_HU",
-   "title": "Experiment with SVG & 3D Design with the Codex Plugin",
-   "channel": "OpenAI",
-   "date": "2026-11-24T21:32:42+00:00"
-  },
-  {
    "id": "PQYURWk9-w0",
    "title": "Most futuristic helmet ever!",
    "channel": "Matt Wolfe",
@@ -44,7 +44,7 @@
   },
   {
    "id": "K8rdrWQRd20",
-   "title": "The brain helped us build AI. Now AI is explaining the brain.",
+   "title": "How AI is finding the hidden rules of the human brain",
    "channel": "Google DeepMind",
    "date": "2026-11-24T17:51:08+00:00"
   },
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-25T21:38:22.316572+00:00"
+ "updated": "2026-11-26T08:10:28.242306+00:00"
 }
