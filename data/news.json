@@ -1,10 +1,76 @@
 {
  "items": [
   {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-26T20:03:54+00:00"
+  },
+  {
+   "title": "The USA as a Civilizations-esque map",
+   "url": "https://karpathy.ai/usaciv/",
+   "source": "Hacker News",
+   "date": "2026-11-26T19:53:58Z"
+  },
+  {
+   "title": "Ask HN: How do you find meaning of life at 41?",
+   "url": "https://news.ycombinator.com/item?id=50657957",
+   "source": "Hacker News",
+   "date": "2026-11-26T18:14:53Z"
+  },
+  {
+   "title": "Tracking Diseases Cured by AI",
+   "url": "https://diseasescuredbyai.com/",
+   "source": "Hacker News",
+   "date": "2026-11-26T17:16:41Z"
+  },
+  {
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "source": "TechCrunch AI",
+   "date": "2026-11-26T16:00:00+00:00"
+  },
+  {
+   "title": "Come for the Games, Stay for the Community With GeForce NOW",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+   "source": "NVIDIA Blog",
+   "date": "2026-11-26T14:00:22+00:00"
+  },
+  {
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source": "Hugging Face",
+   "date": "2026-11-26T11:37:17+00:00"
+  },
+  {
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "source": "Hacker News",
+   "date": "2026-11-26T09:44:23Z"
+  },
+  {
+   "title": "Moat: OpenRouter replacement",
+   "url": "https://commandcode.ai/moat",
+   "source": "Hacker News",
+   "date": "2026-11-26T06:32:48Z"
+  },
+  {
    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
    "source": "Hugging Face",
    "date": "2026-11-26T05:05:36+00:00"
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge AI",
+   "date": "2026-11-26T04:54:40-05:00"
+  },
+  {
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "source": "Hugging Face",
+   "date": "2026-11-26T00:00:00+00:00"
   },
   {
    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -163,18 +229,6 @@
    "date": "2026-11-24T23:06:17+00:00"
   },
   {
-   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T22:27:52+00:00"
-  },
-  {
-   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-   "source": "TechCrunch AI",
-   "date": "2026-11-24T21:48:27+00:00"
-  },
-  {
    "title": "Working with AI",
    "url": "https://www.anthropic.com/research/working-with-ai",
    "source": "Hacker News",
@@ -227,6 +281,12 @@
    "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
    "source": "The Verge AI",
    "date": "2026-11-24T13:15:00-05:00"
+  },
+  {
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "source": "Google DeepMind",
+   "date": "2026-11-24T13:07:53+00:00"
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -331,40 +391,16 @@
    "date": "2026-11-23T17:00:00+00:00"
   },
   {
-   "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-   "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-   "source": "Hacker News",
-   "date": "2026-11-23T14:02:15Z"
-  },
-  {
-   "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-   "source": "Hacker News",
-   "date": "2026-11-23T13:42:38Z"
-  },
-  {
-   "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-   "source": "Hacker News",
-   "date": "2026-11-23T12:41:14Z"
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "Google DeepMind",
+   "date": "2026-11-23T16:59:40+00:00"
   },
   {
    "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
    "url": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
    "source": "MarkTechPost",
    "date": "2026-11-23T10:40:16+00:00"
-  },
-  {
-   "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
-   "url": "https://hermitcrm.io/",
-   "source": "Hacker News",
-   "date": "2026-11-23T10:09:02Z"
-  },
-  {
-   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-   "url": "https://z.ai/blog/glm-5.4",
-   "source": "Hacker News",
-   "date": "2026-11-23T10:06:43Z"
   },
   {
    "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
@@ -443,42 +479,6 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
    "source": "AWS ML Blog",
    "date": "2026-11-20T22:35:24+00:00"
-  },
-  {
-   "title": "How Standard Bank Group automates AI risk assessment for generative AI",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-20T20:37:31+00:00"
-  },
-  {
-   "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
-   "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-20T20:22:00+00:00"
-  },
-  {
-   "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-20T18:24:06+00:00"
-  },
-  {
-   "title": "The most misunderstood graph in AI just got a major update",
-   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-   "source": "MIT Technology Review",
-   "date": "2026-11-20T18:15:15+00:00"
-  },
-  {
-   "title": "Combatting adversarial distillation",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "source": "OpenAI",
-   "date": "2026-11-20T10:00:00+00:00"
-  },
-  {
-   "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
-   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-20T00:34:07+00:00"
   }
  ],
  "papers": [
@@ -699,5 +699,5 @@
    "date": "2026-11-26T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-26T08:10:28.242306+00:00"
+ "updated": "2026-11-26T21:27:24.868479+00:00"
 }
