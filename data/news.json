@@ -1,7 +1,43 @@
 {
  "items": [
   {
-   "title": "The group chat where your AI talks behind your back",
+   "title": "I'm Scared of AI",
+   "url": "https://thesoapbox.email/archive/3",
+   "source": "Hacker News",
+   "date": "2026-11-27T17:45:31Z"
+  },
+  {
+   "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+   "url": "https://bouncemarket.minhanhday.com/",
+   "source": "Hacker News",
+   "date": "2026-11-27T15:01:50Z"
+  },
+  {
+   "title": "US Air Force's cloud computing platform hacked",
+   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+   "source": "Hacker News",
+   "date": "2026-11-27T12:54:11Z"
+  },
+  {
+   "title": "Kimi for Science: More scientific ideas, made possible",
+   "url": "https://www.kimi.ai/news/kimi-for-science-program",
+   "source": "Hacker News",
+   "date": "2026-11-27T12:03:11Z"
+  },
+  {
+   "title": "AI on brink of making online security useless, mathematicians fear",
+   "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+   "source": "Hacker News",
+   "date": "2026-11-27T11:09:04Z"
+  },
+  {
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "source": "The Verge AI",
+   "date": "2026-11-27T09:00:00-05:00"
+  },
+  {
+   "title": "Group chat where your AI talks behind your back",
    "url": "https://construct22.com/",
    "source": "Hacker News",
    "date": "2026-11-27T06:44:34Z"
@@ -23,6 +59,12 @@
    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
    "source": "Hacker News",
    "date": "2026-11-27T00:03:18Z"
+  },
+  {
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "source": "Hugging Face",
+   "date": "2026-11-27T00:00:00+00:00"
   },
   {
    "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
@@ -271,36 +313,6 @@
    "date": "2026-11-24T23:06:17+00:00"
   },
   {
-   "title": "Working with AI",
-   "url": "https://www.anthropic.com/research/working-with-ai",
-   "source": "Hacker News",
-   "date": "2026-11-24T21:07:38Z"
-  },
-  {
-   "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-   "url": "https://news.ycombinator.com/item?id=50634426",
-   "source": "Hacker News",
-   "date": "2026-11-24T20:44:15Z"
-  },
-  {
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-   "url": "https://news.ycombinator.com/item?id=50630809",
-   "source": "Hacker News",
-   "date": "2026-11-24T16:45:44Z"
-  },
-  {
-   "title": "Tidal bans AI-generated music",
-   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-   "source": "Hacker News",
-   "date": "2026-11-24T16:12:38Z"
-  },
-  {
-   "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-   "url": "https://masondata.ai/",
-   "source": "Hacker News",
-   "date": "2026-11-24T16:11:52Z"
-  },
-  {
    "title": "How Gemini is changing the game for Golden State's organization and fans.",
    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
    "source": "Google AI",
@@ -343,22 +355,10 @@
    "date": "2026-11-24T12:17:09-05:00"
   },
   {
-   "title": "Jensen Huang deepfakes are the hot new AI slop",
-   "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-   "source": "The Verge AI",
-   "date": "2026-11-24T11:30:00-05:00"
-  },
-  {
    "title": "Searching for distant planets with Astra",
    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
    "source": "OpenAI",
    "date": "2026-11-24T11:00:00+00:00"
-  },
-  {
-   "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
-   "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
-   "source": "Hacker News",
-   "date": "2026-11-24T09:39:50Z"
   },
   {
    "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
@@ -627,5 +627,5 @@
    "date": "2026-11-27T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-27T08:21:12.704276+00:00"
+ "updated": "2026-11-27T21:11:59.683857+00:00"
 }
