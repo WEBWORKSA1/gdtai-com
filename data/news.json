@@ -1,6 +1,42 @@
 {
  "items": [
   {
+   "title": "The group chat where your AI talks behind your back",
+   "url": "https://construct22.com/",
+   "source": "Hacker News",
+   "date": "2026-11-27T06:44:34Z"
+  },
+  {
+   "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+   "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+   "source": "MarkTechPost",
+   "date": "2026-11-27T03:43:35+00:00"
+  },
+  {
+   "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+   "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+   "source": "MarkTechPost",
+   "date": "2026-11-27T03:31:30+00:00"
+  },
+  {
+   "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+   "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+   "source": "Hacker News",
+   "date": "2026-11-27T00:03:18Z"
+  },
+  {
+   "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+   "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+   "source": "MarkTechPost",
+   "date": "2026-11-26T22:06:40+00:00"
+  },
+  {
+   "title": "AI made self-hosting fun again",
+   "url": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "date": "2026-11-26T21:47:45Z"
+  },
+  {
    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
    "source": "TechCrunch AI",
@@ -11,6 +47,12 @@
    "url": "https://karpathy.ai/usaciv/",
    "source": "Hacker News",
    "date": "2026-11-26T19:53:58Z"
+  },
+  {
+   "title": "Top-cited AI scientists at four US companies compared",
+   "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+   "source": "Hacker News",
+   "date": "2026-11-26T19:44:31Z"
   },
   {
    "title": "Ask HN: How do you find meaning of life at 41?",
@@ -319,22 +361,10 @@
    "date": "2026-11-24T09:39:50Z"
   },
   {
-   "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-   "url": "https://www.rchive.computer/",
-   "source": "Hacker News",
-   "date": "2026-11-24T07:03:33Z"
-  },
-  {
    "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
    "source": "AWS ML Blog",
    "date": "2026-11-24T05:01:14+00:00"
-  },
-  {
-   "title": "Declare is a UI language for you and your AI",
-   "url": "https://davidtemkin.github.io/declarelang/",
-   "source": "Hacker News",
-   "date": "2026-11-24T02:36:56Z"
   },
   {
    "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
@@ -409,12 +439,6 @@
    "date": "2026-11-23T10:05:47+00:00"
   },
   {
-   "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
-   "url": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
-   "source": "MarkTechPost",
-   "date": "2026-11-23T08:24:57+00:00"
-  },
-  {
    "title": "Connected intelligence for in-house legal",
    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
    "source": "OpenAI",
@@ -431,18 +455,6 @@
    "url": "https://huggingface.co/blog/agentic-evals",
    "source": "Hugging Face",
    "date": "2026-11-23T00:00:00+00:00"
-  },
-  {
-   "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
-   "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
-   "source": "MarkTechPost",
-   "date": "2026-11-22T18:37:57+00:00"
-  },
-  {
-   "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
-   "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
-   "source": "MarkTechPost",
-   "date": "2026-11-22T10:36:17+00:00"
   },
   {
    "title": "Meta ads is now available in AWS Quick",
@@ -467,18 +479,6 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
    "source": "AWS ML Blog",
    "date": "2026-11-21T00:14:26+00:00"
-  },
-  {
-   "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-20T23:07:03+00:00"
-  },
-  {
-   "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
-   "source": "AWS ML Blog",
-   "date": "2026-11-20T22:35:24+00:00"
   }
  ],
  "papers": [
@@ -486,218 +486,146 @@
    "title": "Context Scaling: A New Frontier of AI Scaling",
    "url": "https://arxiv.org/abs/2611.33160",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
    "url": "https://arxiv.org/abs/2611.33161",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
    "url": "https://arxiv.org/abs/2611.33165",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "General-Purpose Decision Models for AI Configuration Tuning",
    "url": "https://arxiv.org/abs/2611.33190",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
    "url": "https://arxiv.org/abs/2611.33263",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
    "url": "https://arxiv.org/abs/2611.33303",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
    "url": "https://arxiv.org/abs/2611.33304",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
    "url": "https://arxiv.org/abs/2611.33322",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Confidence scores for gated automation of large language models",
    "url": "https://arxiv.org/abs/2611.33394",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
    "url": "https://arxiv.org/abs/2611.33402",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
    "url": "https://arxiv.org/abs/2611.33411",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
    "url": "https://arxiv.org/abs/2611.33470",
    "source": "arXiv cs.AI",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
    "url": "https://arxiv.org/abs/2611.33173",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
    "url": "https://arxiv.org/abs/2611.33174",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
    "url": "https://arxiv.org/abs/2611.33175",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Psychophysics of Duration Perception in Multimodal Large Language Models",
    "url": "https://arxiv.org/abs/2611.33176",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Verified experience improves materials prediction with large language models",
    "url": "https://arxiv.org/abs/2611.33195",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Extraneous Cognitive Load in Large Language Models",
    "url": "https://arxiv.org/abs/2611.33197",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Focus On Facts: Stylistically Invariant and Factually Sensitive Text Embeddings",
    "url": "https://arxiv.org/abs/2611.33250",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "FrId\\'eo: French News Outlet Ideology Scoring via Multi-Source Evidence Fusion and Distancing-Aware Lexical Scoring",
    "url": "https://arxiv.org/abs/2611.33266",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models",
    "url": "https://arxiv.org/abs/2611.33307",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Who Attributes a Mind to Whom? Mutual Theory of Mind in Simulated User-Assistant Conversation",
    "url": "https://arxiv.org/abs/2611.33327",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "When the Knowledge Runs Out: A Part-Level Pilot Evaluation of How Language Models Handle Partially Covered Questions",
    "url": "https://arxiv.org/abs/2611.33428",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   },
   {
    "title": "Open-Source FUTO Keyboard Layouts and Predictive Text for a Few Endangered Languages",
    "url": "https://arxiv.org/abs/2611.33432",
    "source": "arXiv cs.CL",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
-   "url": "https://arxiv.org/abs/2611.33162",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Quantum Machine Learning for Signature Forgery Detection",
-   "url": "https://arxiv.org/abs/2611.33163",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Code availability is not enough: schemas for documenting and extending data analysis",
-   "url": "https://arxiv.org/abs/2611.33167",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning",
-   "url": "https://arxiv.org/abs/2611.33168",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
-   "url": "https://arxiv.org/abs/2611.33178",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Deep Learning-Based Mesoscopic Emission Modeling",
-   "url": "https://arxiv.org/abs/2611.33179",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Neighbor Crowding Predicts Feature Stability in Sparse Autoencoders",
-   "url": "https://arxiv.org/abs/2611.33182",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "REI: Learning Ideation from Repository Evolution",
-   "url": "https://arxiv.org/abs/2611.33183",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Semantic Density Does Not Predict Agent-Memory Collapse",
-   "url": "https://arxiv.org/abs/2611.33184",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "KiRA: Kronecker Input-Gated Rank Adaptation for Parameter-Efficient Fine-Tuning of Pretrained Models",
-   "url": "https://arxiv.org/abs/2611.33236",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting in Sustainable Agriculture",
-   "url": "https://arxiv.org/abs/2611.33237",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
-  },
-  {
-   "title": "Sequential Testing on Complex and High Dimensional Data Streams Leveraging Unsupervised Model Errors",
-   "url": "https://arxiv.org/abs/2611.33238",
-   "source": "arXiv cs.LG",
-   "date": "2026-11-26T00:00:00-05:00"
+   "date": "2026-11-27T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-26T21:27:24.868479+00:00"
+ "updated": "2026-11-27T08:21:12.704276+00:00"
 }

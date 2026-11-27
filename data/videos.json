@@ -1,6 +1,12 @@
 {
  "items": [
   {
+   "id": "4omPdu3mAEE",
+   "title": "Get Your Uber Eats Via Drone",
+   "channel": "Matt Wolfe",
+   "date": "2026-11-27T01:01:54+00:00"
+  },
+  {
    "id": "C6DENY3rgqg",
    "title": "You had us at Deployed",
    "channel": "OpenAI",
@@ -59,12 +65,6 @@
    "title": "Claude AI Solved The Secret Of Black Holes",
    "channel": "Two Minute Papers",
    "date": "2026-11-23T07:37:52+00:00"
-  },
-  {
-   "id": "8RNSJ6Ud4nY",
-   "title": "Google Cooked With This New Model!",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-22T20:58:01+00:00"
   },
   {
    "id": "zqzk43bSdDI",
@@ -217,5 +217,5 @@
    "date": "2026-01-12T17:55:49+00:00"
   }
  ],
- "updated": "2026-11-26T21:27:24.868479+00:00"
+ "updated": "2026-11-27T08:21:12.704276+00:00"
 }

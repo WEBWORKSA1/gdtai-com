@@ -3,143 +3,143 @@
   {
    "name": "wangzan101/Mika",
    "url": "https://github.com/wangzan101/Mika",
-   "stars": 10072,
+   "stars": 10103,
    "lang": "Kotlin",
    "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you."
   },
   {
    "name": "mdiri-ai/SoduWork",
    "url": "https://github.com/mdiri-ai/SoduWork",
-   "stars": 8223,
+   "stars": 8384,
    "lang": "JavaScript",
    "desc": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted."
   },
   {
    "name": "KKKKhazix/agent-autoloop",
    "url": "https://github.com/KKKKhazix/agent-autoloop",
-   "stars": 6643,
+   "stars": 6684,
    "lang": "TypeScript",
    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
   },
   {
    "name": "expo/exact",
    "url": "https://github.com/expo/exact",
-   "stars": 5179,
+   "stars": 5202,
    "lang": "Rust",
-   "desc": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them."
+   "desc": "Agent Native, Rust based, high performance way to build apps on web, iOS, macOS, Android, Linux and other platforms."
   },
   {
    "name": "EL4CTEO/fast-anything",
    "url": "https://github.com/EL4CTEO/fast-anything",
-   "stars": 4205,
+   "stars": 4332,
    "lang": "Rust",
    "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
   },
   {
    "name": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-   "stars": 2804,
+   "stars": 2842,
    "lang": "Python",
    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
   },
   {
    "name": "N1nEmAn/sapper-v2",
    "url": "https://github.com/N1nEmAn/sapper-v2",
-   "stars": 2662,
+   "stars": 2672,
    "lang": "Python",
    "desc": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Founda"
   },
   {
    "name": "pierridotite/mobile-agent-testers",
    "url": "https://github.com/pierridotite/mobile-agent-testers",
-   "stars": 2494,
+   "stars": 2545,
    "lang": "Python",
    "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bu"
   },
   {
    "name": "Sandflow-ai/sand3d",
    "url": "https://github.com/Sandflow-ai/sand3d",
-   "stars": 2340,
+   "stars": 2355,
    "lang": "HTML",
    "desc": "3D modeling in Python, built for LLMs."
   },
   {
    "name": "JosssphZhou/poki",
    "url": "https://github.com/JosssphZhou/poki",
-   "stars": 2141,
+   "stars": 2177,
    "lang": "Swift",
    "desc": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account."
   },
   {
    "name": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
-   "stars": 2069,
+   "stars": 2073,
    "lang": "TypeScript",
    "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and "
   },
   {
-   "name": "voyager-so/vork",
-   "url": "https://github.com/voyager-so/vork",
-   "stars": 1749,
-   "lang": "Rust",
-   "desc": "Headless 3D, VFX, and motion graphics engine for agents"
-  },
-  {
    "name": "opensetlabs/openset-llm",
    "url": "https://github.com/opensetlabs/openset-llm",
-   "stars": 1666,
-   "lang": "C++",
+   "stars": 1901,
+   "lang": "Python",
    "desc": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server."
-  },
-  {
-   "name": "RunanywhereAI/trnrt",
-   "url": "https://github.com/RunanywhereAI/trnrt",
-   "stars": 1662,
-   "lang": "Python",
-   "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
-  },
-  {
-   "name": "synchopate/llama-modchip",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "stars": 1419,
-   "lang": "Python",
-   "desc": "Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0."
   },
   {
    "name": "alesha-pro/llm.asm",
    "url": "https://github.com/alesha-pro/llm.asm",
-   "stars": 1405,
+   "stars": 1760,
    "lang": "Assembly",
    "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies."
   },
   {
-   "name": "Minglink/dsh-jailbreak-workflow",
-   "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
-   "stars": 1274,
+   "name": "voyager-so/vork",
+   "url": "https://github.com/voyager-so/vork",
+   "stars": 1754,
+   "lang": "Rust",
+   "desc": "Headless 3D, VFX, and motion graphics engine for agents"
+  },
+  {
+   "name": "RunanywhereAI/trnrt",
+   "url": "https://github.com/RunanywhereAI/trnrt",
+   "stars": 1664,
+   "lang": "Python",
+   "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere."
+  },
+  {
+   "name": "nexu-io/opengame",
+   "url": "https://github.com/nexu-io/opengame",
+   "stars": 1547,
    "lang": "TypeScript",
-   "desc": "可视化破甲制作工作流---Visual soft-workflow plugin for DeepSeek Harness (dsh-workflow-lite 0.11.0): canvas-to-plan-prompt engine paired with Minglink/dsh-workflows for LLM red-teaming & safety research."
+   "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish"
+  },
+  {
+   "name": "synchopate/llama-modchip",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "stars": 1421,
+   "lang": "Python",
+   "desc": "Zero-GPU CPU inference for 30B-284B MoE models (Qwen3.8 176.5B cold-cache certified in 28.26/48.35 GiB Cgroup v2, DeepSeek-V4 284B, Nemotron-30B) + RouteCrack 2.0."
   },
   {
    "name": "kubai087/kubai-icons",
    "url": "https://github.com/kubai087/kubai-icons",
-   "stars": 1269,
+   "stars": 1360,
    "lang": "JavaScript",
    "desc": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse th"
   },
   {
-   "name": "alexeyw/lot-map",
-   "url": "https://github.com/alexeyw/lot-map",
-   "stars": 1183,
+   "name": "Minglink/dsh-jailbreak-workflow",
+   "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+   "stars": 1278,
    "lang": "TypeScript",
-   "desc": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages."
+   "desc": "可视化破甲制作工作流---Visual soft-workflow plugin for DeepSeek Harness (dsh-workflow-lite 0.11.0): canvas-to-plan-prompt engine paired with Minglink/dsh-workflows for LLM red-teaming & safety research."
   },
   {
-   "name": "Dodaios/ste80-humanizer",
-   "url": "https://github.com/Dodaios/ste80-humanizer",
-   "stars": 1153,
-   "lang": "Python",
-   "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared."
+   "name": "alexeyw/lot-map",
+   "url": "https://github.com/alexeyw/lot-map",
+   "stars": 1186,
+   "lang": "TypeScript",
+   "desc": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages."
   }
  ],
- "updated": "2026-11-26T21:27:24.868479+00:00"
+ "updated": "2026-11-27T08:21:12.704276+00:00"
 }
