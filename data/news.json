@@ -1,6 +1,24 @@
 {
  "items": [
   {
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+   "source": "Hacker News",
+   "date": "2026-11-28T01:32:56Z"
+  },
+  {
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "url": "https://sessiongraph.ai/",
+   "source": "Hacker News",
+   "date": "2026-11-27T21:07:34Z"
+  },
+  {
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "url": "https://github.com/skeeto/prospero",
+   "source": "Hacker News",
+   "date": "2026-11-27T20:23:14Z"
+  },
+  {
    "title": "I'm Scared of AI",
    "url": "https://thesoapbox.email/archive/3",
    "source": "Hacker News",
@@ -23,6 +41,12 @@
    "url": "https://www.kimi.ai/news/kimi-for-science-program",
    "source": "Hacker News",
    "date": "2026-11-27T12:03:11Z"
+  },
+  {
+   "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+   "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
+   "source": "Hacker News",
+   "date": "2026-11-27T11:52:53Z"
   },
   {
    "title": "AI on brink of making online security useless, mathematicians fear",
@@ -283,18 +307,6 @@
    "date": "2026-11-25T05:42:05+00:00"
   },
   {
-   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-   "source": "Hacker News",
-   "date": "2026-11-25T03:47:42Z"
-  },
-  {
-   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-   "url": "https://www.proofatlas.ai/open-problems/",
-   "source": "Hacker News",
-   "date": "2026-11-25T03:01:36Z"
-  },
-  {
    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
    "source": "TechCrunch AI",
@@ -335,12 +347,6 @@
    "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
    "source": "The Verge AI",
    "date": "2026-11-24T13:15:00-05:00"
-  },
-  {
-   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-   "source": "Google DeepMind",
-   "date": "2026-11-24T13:07:53+00:00"
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -419,12 +425,6 @@
    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
    "source": "Google AI",
    "date": "2026-11-23T17:00:00+00:00"
-  },
-  {
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "source": "Google DeepMind",
-   "date": "2026-11-23T16:59:40+00:00"
   },
   {
    "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
@@ -627,5 +627,5 @@
    "date": "2026-11-27T00:00:00-05:00"
   }
  ],
- "updated": "2026-11-27T21:11:59.683857+00:00"
+ "updated": "2026-11-28T07:41:28.446573+00:00"
 }

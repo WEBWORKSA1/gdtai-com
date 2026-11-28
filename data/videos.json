@@ -1,197 +1,29 @@
 {
  "items": [
   {
-   "id": "u6UYsl-KEoc",
-   "title": "DeepMind’s New AI Just Changed The AI Race",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-27T08:42:30+00:00"
+   "id": "2xZAOcpiaa0",
+   "title": "2024 Mk8 GTI Stage 1 Tune Review (Locked TCU Low Torque File)",
+   "channel": "mk8Matt",
+   "date": "2026-01-14T21:58:47+00:00"
   },
   {
-   "id": "4omPdu3mAEE",
-   "title": "Get Your Uber Eats Via Drone",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-27T01:01:54+00:00"
+   "id": "7kT4BK2l0ec",
+   "title": "Put a Mic on my stage 1 Mk8 GTI - Video shortly! #dsgperformance #golfgti",
+   "channel": "mk8Matt",
+   "date": "2026-01-12T17:59:18+00:00"
   },
   {
-   "id": "C6DENY3rgqg",
-   "title": "You had us at Deployed",
-   "channel": "OpenAI",
-   "date": "2026-11-25T23:50:43+00:00"
+   "id": "EZp8WDYL0io",
+   "title": "Got my hands on 034’s stage 1 tune for the Mk8 GTI #vwgti #gti #mk8vw #mk8gti",
+   "channel": "mk8Matt",
+   "date": "2026-01-12T17:55:49+00:00"
   },
   {
-   "id": "A4UNP-axGHU",
-   "title": "How your dot can keep work moving while you’re away",
-   "channel": "OpenAI",
-   "date": "2026-11-25T18:21:11+00:00"
-  },
-  {
-   "id": "kfGYU_-SuaE",
-   "title": "School Day | Make a day do anything with ChatGPT (Official)",
-   "channel": "OpenAI",
-   "date": "2026-11-25T16:45:33+00:00"
-  },
-  {
-   "id": "BWpsNrkt6Z4",
-   "title": "I've never seen a drone do this...",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-25T16:37:45+00:00"
-  },
-  {
-   "id": "hwKct_1ilEQ",
-   "title": "Finances in ChatGPT: A Beginner’s Guide",
-   "channel": "OpenAI",
-   "date": "2026-11-25T14:00:28+00:00"
-  },
-  {
-   "id": "hwWlEuI359w",
-   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-25T09:54:23+00:00"
-  },
-  {
-   "id": "PQYURWk9-w0",
-   "title": "Most futuristic helmet ever!",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-24T20:11:42+00:00"
-  },
-  {
-   "id": "K8rdrWQRd20",
-   "title": "How AI is finding the hidden rules of the human brain",
-   "channel": "Google DeepMind",
-   "date": "2026-11-24T17:51:08+00:00"
-  },
-  {
-   "id": "u1ozwejEwBo",
-   "title": "We know who will REALLY be using this (Not AI)",
-   "channel": "Matt Wolfe",
-   "date": "2026-11-23T21:09:34+00:00"
-  },
-  {
-   "id": "1jPdehG3Hms",
-   "title": "Claude AI Solved The Secret Of Black Holes",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-23T07:37:52+00:00"
-  },
-  {
-   "id": "zqzk43bSdDI",
-   "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
-   "channel": "3Blue1Brown",
-   "date": "2026-11-22T02:02:12+00:00"
-  },
-  {
-   "id": "sof3vW4mHTs",
-   "title": "The making of Anthropic",
-   "channel": "Anthropic",
-   "date": "2026-11-19T21:03:23+00:00"
-  },
-  {
-   "id": "FORdPIWOH5k",
-   "title": "Is Gemini our path to AGI?",
-   "channel": "Google DeepMind",
-   "date": "2026-11-19T19:58:06+00:00"
-  },
-  {
-   "id": "JDsFHmq9hlA",
-   "title": "What we make of this moment, will make this moment.",
-   "channel": "Anthropic",
-   "date": "2026-11-19T15:02:49+00:00"
-  },
-  {
-   "id": "Cy7Wz6Z4TWU",
-   "title": "DeepMind Just Released The Best Thing AI Ever Did",
-   "channel": "Two Minute Papers",
-   "date": "2026-11-19T09:26:19+00:00"
-  },
-  {
-   "id": "pVc6KkjeCfU",
-   "title": "Behind the scenes with Genie 4",
-   "channel": "Google DeepMind",
-   "date": "2026-11-18T18:12:24+00:00"
-  },
-  {
-   "id": "EDp4IoAUsXY",
-   "title": "Introducing the new Project Genie, powered by Genie 4",
-   "channel": "Google DeepMind",
-   "date": "2026-11-18T18:12:21+00:00"
-  },
-  {
-   "id": "qbsb9DpdZ6s",
-   "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
-   "channel": "3Blue1Brown",
-   "date": "2026-11-17T16:43:16+00:00"
-  },
-  {
-   "id": "0IZcjWtWmDA",
-   "title": "Encoding the encyclopedia on a rod",
-   "channel": "3Blue1Brown",
-   "date": "2026-11-17T16:43:03+00:00"
-  },
-  {
-   "id": "V_uq3v6xK-4",
-   "title": "The Sphere Intersection Puzzle",
-   "channel": "3Blue1Brown",
-   "date": "2026-10-25T14:30:46+00:00"
-  },
-  {
-   "id": "DdCEmlAydcw",
-   "title": "Inside Anthropic's molecular biology lab",
-   "channel": "Anthropic",
-   "date": "2026-09-23T18:01:32+00:00"
-  },
-  {
-   "id": "8pRe7kkPi6g",
-   "title": "GPT 6 + Hyperframe = Crazy combo for expert-level videos",
-   "channel": "AI Jason",
-   "date": "2026-09-23T11:51:06+00:00"
-  },
-  {
-   "id": "o4Vi5uBZYH0",
-   "title": "Jev + Treg is a crazy combo for automation...",
-   "channel": "AI Jason",
-   "date": "2026-09-21T11:15:05+00:00"
-  },
-  {
-   "id": "GkGufbIVVC8",
-   "title": "How to run your first AI UGC campaign (step-by-step guide)",
-   "channel": "AI Jason",
-   "date": "2026-09-15T12:33:12+00:00"
-  },
-  {
-   "id": "uVS88gnaxcg",
-   "title": "Meet Claude Fable 5.1",
-   "channel": "Anthropic",
-   "date": "2026-09-01T19:21:24+00:00"
-  },
-  {
-   "id": "_9OT25ZvrWs",
-   "title": "I don't prompt agents anymore...",
-   "channel": "AI Jason",
-   "date": "2026-08-25T10:51:06+00:00"
-  },
-  {
-   "id": "rUiulWItECQ",
-   "title": "Parity of permutations, impossible puzzles and the magical determinant",
-   "channel": "Mathologer",
-   "date": "2026-04-11T15:19:20+00:00"
-  },
-  {
-   "id": "8q95eiq-y-Q",
-   "title": "I Built an Original One-Glance Proof from Dice",
-   "channel": "Mathologer",
-   "date": "2025-10-11T13:08:53+00:00"
-  },
-  {
-   "id": "d-Yy-ILjM3k",
-   "title": "How to build and solve a 4D Rubik's cubes in physical 3D (no simulator!)",
-   "channel": "Mathologer",
-   "date": "2025-08-16T14:03:16+00:00"
-  },
-  {
-   "id": "8CksuEk2jJQ",
-   "title": "How to Integrate with an AX? The Surprising Power of Planimeters – Visually Explained!",
-   "channel": "Mathologer",
-   "date": "2025-06-07T14:07:22+00:00"
+   "id": "_JIItvicMrY",
+   "title": "Old ALH TDI VWs have a janky but fun mod! #tdi #jettatdi #vwtdi",
+   "channel": "mk8Matt",
+   "date": "2025-12-30T01:59:09+00:00"
   }
  ],
- "updated": "2026-11-27T21:11:59.683857+00:00"
+ "updated": "2026-11-28T07:41:28.446573+00:00"
 }
